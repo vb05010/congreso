@@ -1,0 +1,8 @@
+{
+    "name": "one47/filelist-plugin",
+    "type": "october-plugin",
+    "description": "None",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}

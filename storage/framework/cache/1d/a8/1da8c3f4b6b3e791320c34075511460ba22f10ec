@@ -1,0 +1,201 @@
+1623451934a:1:{s:22:"chairs-deck-chairs.htm";a:7:{s:8:"fileName";s:22:"chairs-deck-chairs.htm";s:7:"content";s:9187:"[viewBag]
+title = "Concurso Fotográfico"
+url = "/sobre-el-congreso/concurso"
+layout = "chair"
+is_hidden = 0
+navigation_hidden = 0
+tagline = "Concurso Fotográfico"
+==
+{% put sidebarSection %}
+<h3>Bases del concurso</h3>
+
+<p align="justify">El concurso fotográfico es gratis y abierto a docentes y estudiantes mayores de 18 años que están cursando asignaturas o desarrollando trabajos de tesis inscritos en las diferentes Facultades de la Universidad de El Salvador.</p>
+
+<p align="justify">El tema del presente concurso, puede cubrir cualquiera de las seis áreas de conocimiento, según al Manual de Frascati</p>
+
+<ol>
+	<li>Ciencias Naturales;</li>
+	<li>Ingeniería y Tecnología;</li>
+	<li>Ciencias Médicas y de la Salud;</li>
+	<li>Ciencias Agrícolas y Veterinarias;</li>
+	<li>Ciencias Sociales;</li>
+	<li>Humanidades y artes.</li>
+</ol>
+
+<h3>Calendario del Concurso</h3>
+
+<ul>
+	<li>Envío de las fotografías únicamente al correo electrónico: sic@ues.edu.sv, <strong>desde&nbsp;</strong><strong>el 15 de junio hasta el 15 de septiembre de 2021.</strong></li>
+	<li>Preselección de las fotografías: <strong>16 de septiembre al&nbsp;</strong><strong>10 de octubre de 2021.</strong></li>
+	<li>Notificación de los resultados de las fotografías preseleccionadas (<strong><u>1° ETAPA</u></strong>): <strong>11 de octubre de 2021.&nbsp;</strong></li>
+	<li>Exposición y votación general por el público en la Web (<strong>Facebook del SIC-UES</strong>) de fotografías preseleccionadas (<strong><u>2°ETAPA</u></strong>): <strong>12 al 15 de octubre de 2021.</strong></li>
+	<li>Juzgamiento final de las fotografías preseleccionadas y más votadas (<strong><u>3° ETAPA</u></strong>): <strong>18 de octubre de 2021.&nbsp;</strong></li>
+	<li>Notificación de los Resultados Finales vía Facebook de la SIC-UES: <strong>25 de octubre de 2021.&nbsp;</strong></li>
+	<li>Exposición de las obras, premiación e inauguración de colección permanente de fotografías en página Web de la SIC-UES: <strong>28 de octubre de 2021.&nbsp;</strong></li>
+</ul>
+
+<h3>Coordinadores</h3>
+
+<p>José Miguel Sermeño Chicas
+	<br><a href="mailto:jose.sermeno@ues.edu.sv">jose.sermeno@ues.edu.sv</a></p>
+
+<p>Luis Sánchez&nbsp;
+	<br><a href="mailto:luis.sanchez@ues.edu.sv">luis.sanchez@ues.edu.sv</a>&nbsp;</p>
+
+<p>Raúl Magarin&nbsp;
+	<br><a href="mailto:raul.magarin@ues.edu.sv">raul.magarin@ues.edu.sv</a></p>
+
+<p>Para mayor información: <a href="mailto:sic@ues.edu.sv">sic@ues.edu.sv</a></p>
+
+{% endput %}
+==
+<h3>Indicaciones Generales</h3>
+
+<ul>
+	<li style="text-align: justify;">Las fotografías deben ser específicas de cualquiera de los temas y captadas en El Salvador.</li>
+	<li style="text-align: justify;">Para poder participar en el concurso deberán enviar las fotografías únicamente al correo electrónico: sic@ues.edu.sv</li>
+	<li style="text-align: justify;">Fotografías que muestren directamente leyendas o marcas que puedan interpretarse a juicio del jurado como publicidad, serán eliminadas. Tampoco serán tomadas en cuenta fotografías que hayan sido acreedoras de distinciones (premios) en otros certámenes, y todas deberán responder al tema central del presente concurso.</li>
+	<li style="text-align: justify;">No podrá participar el personal involucrado directamente en la organización de esta actividad. Esta restricción es aplicable a los miembros del jurado.</li>
+	<li style="text-align: justify;">Derecho de inscripción gratuita.</li>
+	<li style="text-align: justify;">Se admitirán fotografías tomadas a partir de medios digitales.</li>
+	<li style="text-align: justify;">El proceso de elección de las fotografías constará de tres etapas: <strong>7a)&nbsp;</strong>En la <strong><u>1° ETAPA</u></strong>, el jurado realizará una preselección de las fotografías enviadas por correo electrónico. <strong>7b)&nbsp;</strong>Una vez realizada la preselección de las fotografías por parte del jurado, como una <strong><u>2° ETAPA</u></strong>, el público tendrá la posibilidad de votar por las fotografías de su agrado y que hayan sido preseleccionadas, a través de la página en <strong>Facebook</strong> de la SIC-UES. <strong>7c)&nbsp;</strong>Durante la <strong><u>3° ETAPA</u></strong>, se realizará el juzgamiento final de las fotografías preseleccionadas y más votadas hasta alcanzar el número de premios y menciones previstos (se contempla la posibilidad de que algún premio quede vacante, si el jurado lo determinase por alguna razón).</li>
+	<li style="text-align: justify;">Los participantes preseleccionados serán notificados vía correo electrónico y sus fotografías se colocarán en Facebook de la SIC-UES.</li>
+	<li style="text-align: justify;">El jurado calificador estará integrado por expertos en fotografía, tanto nacionales como internacionales.</li>
+	<li style="text-align: justify;">Se entregarán los siguientes premios: <strong><u>PRIMER LUGAR</u>: Diploma, ampliación fotográfica y regalo especial; <u>SEGUNDO LUGAR</u>: Diploma, ampliación fotográfica y regalo especial; <u>TERCER LUGAR</u>: Diploma, ampliación fotográfica y regalo especial; <u>MENCIONES</u>: Diplomas.</strong></li>
+	<li style="text-align: justify;">Las fotografías premiadas quedarán en poder de la Universidad de El Salvador, y pasarán a integrar el patrimonio permanente de la Institución. Las fotografías premiadas serán presentadas en una muestra que se realizará en la página Web de la SIC-UES, <strong>durante el mes de noviembre 2021.&nbsp;</strong>(Posibilidad de exponer en la Pinacoteca, con el apoyo de la Secretaría de Arte y Cultura (SAC-UES).</li>
+	<li style="text-align: justify;">Tanto las fotografías que se integran al Patrimonio de la Universidad de El Salvador (UES), como las menciones, podrán ser utilizadas en las actividades y proyectos de promoción cultural, tales como reproducción, impresión, publicación, exposición y toda otra difusión que la UES considere pertinente, mencionándose oportunamente el nombre del autor y el título de la obra, sin que esto suponga retribución y/o compensación económica alguna. No obstante, los autores conservan sus Derechos de Propiedad Intelectual de acuerdo con la ley y se responsabilizan del cumplimiento de las disposiciones legales en materia de dicha ley y del derecho a la propia imagen, siendo responsables de que la difusión, reproducción o edición de la obra en el marco del presente concurso no lesione derecho alguno de terceros.</li>
+	<li style="text-align: justify;">El Jurado se reserva el derecho de explicar los motivos que generaron las decisiones tomadas, las cuales son de carácter confidencial. No se darán bajo ninguna circunstancia motivos o explicaciones verbales o escritas con respecto a las decisiones finales.</li>
+</ul>
+
+<h3>Modo de presentación</h3>
+
+<ul>
+	<li style="text-align: justify;">Para la <strong>1° ETAPA</strong>de selección, cada participante deberá enviar únicamente vía correo electrónico un máximo de cuatro (4) fotografías candidatas en color (enviar de 1 a 4 fotografías adjuntas por el correo electrónico, no se permite enviar más de un correo con fotos adjuntas), completar la siguiente información requerida:
+
+		<ul>
+			<li style="text-align: justify;">Nombre completo del autor de la fotografía.</li>
+			<li style="text-align: justify;">Número de DUI</li>
+			<li style="text-align: justify;">Carrera.</li>
+			<li style="text-align: justify;">Un texto de leyenda informativo de la imagen tipo pie de foto.</li>
+		</ul>
+	</li>
+	<li style="text-align: justify;">Deberán presentarse en formato jpg, en 72 dpi de resolución, 8 Megapíxeles y con un peso que no supere los 2 MB. Asimismo, las tomas no deberán superar los tres años de antigüedad.</li>
+	<li style="text-align: justify;">Finalizado el envío por correo electrónico y una vez aceptados todos los términos y condiciones, cada participante recibirá una notificación vía correo electrónico con su <strong>NÚMERO DE PARTICIPACIÓN</strong>. Los participantes que envíen más de cuatro (4) fotografías, serán eliminados automáticamente. No se permitirá que las fotos enviadas al concurso sean publicadas en cualquier medio anteriormente a la premiación.</li>
+	<li style="text-align: justify;">Las fotografías no deben llevar en su frente ninguna inscripción.</li>
+	<li style="text-align: justify;">No se tomarán en cuenta aquellas fotografías que hayan sido manipuladas de manera digital con algún programa para ese fin, con la finalidad de crear imágenes elaboradas. Únicamente se permite la ecualización.</li>
+	<li style="text-align: justify;">Las fotografías que no cumplan con estos requisitos no serán juzgadas, y quedaran automáticamente fuera del concurso.</li>
+	<li style="text-align: justify;">La SIC-UES se reserva el derecho de resolver en forma inapelable cualquier situación no prevista en este documento. El simple hecho de participar en este concurso implica el conocimiento y aceptación de estas bases y de las modificaciones que pudiera realizar el comité organizador respecto de las mismas.</li>
+</ul>";s:5:"mtime";i:1623283034;s:6:"markup";s:6645:"<h3>Indicaciones Generales</h3>
+
+<ul>
+	<li style="text-align: justify;">Las fotografías deben ser específicas de cualquiera de los temas y captadas en El Salvador.</li>
+	<li style="text-align: justify;">Para poder participar en el concurso deberán enviar las fotografías únicamente al correo electrónico: sic@ues.edu.sv</li>
+	<li style="text-align: justify;">Fotografías que muestren directamente leyendas o marcas que puedan interpretarse a juicio del jurado como publicidad, serán eliminadas. Tampoco serán tomadas en cuenta fotografías que hayan sido acreedoras de distinciones (premios) en otros certámenes, y todas deberán responder al tema central del presente concurso.</li>
+	<li style="text-align: justify;">No podrá participar el personal involucrado directamente en la organización de esta actividad. Esta restricción es aplicable a los miembros del jurado.</li>
+	<li style="text-align: justify;">Derecho de inscripción gratuita.</li>
+	<li style="text-align: justify;">Se admitirán fotografías tomadas a partir de medios digitales.</li>
+	<li style="text-align: justify;">El proceso de elección de las fotografías constará de tres etapas: <strong>7a)&nbsp;</strong>En la <strong><u>1° ETAPA</u></strong>, el jurado realizará una preselección de las fotografías enviadas por correo electrónico. <strong>7b)&nbsp;</strong>Una vez realizada la preselección de las fotografías por parte del jurado, como una <strong><u>2° ETAPA</u></strong>, el público tendrá la posibilidad de votar por las fotografías de su agrado y que hayan sido preseleccionadas, a través de la página en <strong>Facebook</strong> de la SIC-UES. <strong>7c)&nbsp;</strong>Durante la <strong><u>3° ETAPA</u></strong>, se realizará el juzgamiento final de las fotografías preseleccionadas y más votadas hasta alcanzar el número de premios y menciones previstos (se contempla la posibilidad de que algún premio quede vacante, si el jurado lo determinase por alguna razón).</li>
+	<li style="text-align: justify;">Los participantes preseleccionados serán notificados vía correo electrónico y sus fotografías se colocarán en Facebook de la SIC-UES.</li>
+	<li style="text-align: justify;">El jurado calificador estará integrado por expertos en fotografía, tanto nacionales como internacionales.</li>
+	<li style="text-align: justify;">Se entregarán los siguientes premios: <strong><u>PRIMER LUGAR</u>: Diploma, ampliación fotográfica y regalo especial; <u>SEGUNDO LUGAR</u>: Diploma, ampliación fotográfica y regalo especial; <u>TERCER LUGAR</u>: Diploma, ampliación fotográfica y regalo especial; <u>MENCIONES</u>: Diplomas.</strong></li>
+	<li style="text-align: justify;">Las fotografías premiadas quedarán en poder de la Universidad de El Salvador, y pasarán a integrar el patrimonio permanente de la Institución. Las fotografías premiadas serán presentadas en una muestra que se realizará en la página Web de la SIC-UES, <strong>durante el mes de noviembre 2021.&nbsp;</strong>(Posibilidad de exponer en la Pinacoteca, con el apoyo de la Secretaría de Arte y Cultura (SAC-UES).</li>
+	<li style="text-align: justify;">Tanto las fotografías que se integran al Patrimonio de la Universidad de El Salvador (UES), como las menciones, podrán ser utilizadas en las actividades y proyectos de promoción cultural, tales como reproducción, impresión, publicación, exposición y toda otra difusión que la UES considere pertinente, mencionándose oportunamente el nombre del autor y el título de la obra, sin que esto suponga retribución y/o compensación económica alguna. No obstante, los autores conservan sus Derechos de Propiedad Intelectual de acuerdo con la ley y se responsabilizan del cumplimiento de las disposiciones legales en materia de dicha ley y del derecho a la propia imagen, siendo responsables de que la difusión, reproducción o edición de la obra en el marco del presente concurso no lesione derecho alguno de terceros.</li>
+	<li style="text-align: justify;">El Jurado se reserva el derecho de explicar los motivos que generaron las decisiones tomadas, las cuales son de carácter confidencial. No se darán bajo ninguna circunstancia motivos o explicaciones verbales o escritas con respecto a las decisiones finales.</li>
+</ul>
+
+<h3>Modo de presentación</h3>
+
+<ul>
+	<li style="text-align: justify;">Para la <strong>1° ETAPA</strong>de selección, cada participante deberá enviar únicamente vía correo electrónico un máximo de cuatro (4) fotografías candidatas en color (enviar de 1 a 4 fotografías adjuntas por el correo electrónico, no se permite enviar más de un correo con fotos adjuntas), completar la siguiente información requerida:
+
+		<ul>
+			<li style="text-align: justify;">Nombre completo del autor de la fotografía.</li>
+			<li style="text-align: justify;">Número de DUI</li>
+			<li style="text-align: justify;">Carrera.</li>
+			<li style="text-align: justify;">Un texto de leyenda informativo de la imagen tipo pie de foto.</li>
+		</ul>
+	</li>
+	<li style="text-align: justify;">Deberán presentarse en formato jpg, en 72 dpi de resolución, 8 Megapíxeles y con un peso que no supere los 2 MB. Asimismo, las tomas no deberán superar los tres años de antigüedad.</li>
+	<li style="text-align: justify;">Finalizado el envío por correo electrónico y una vez aceptados todos los términos y condiciones, cada participante recibirá una notificación vía correo electrónico con su <strong>NÚMERO DE PARTICIPACIÓN</strong>. Los participantes que envíen más de cuatro (4) fotografías, serán eliminados automáticamente. No se permitirá que las fotos enviadas al concurso sean publicadas en cualquier medio anteriormente a la premiación.</li>
+	<li style="text-align: justify;">Las fotografías no deben llevar en su frente ninguna inscripción.</li>
+	<li style="text-align: justify;">No se tomarán en cuenta aquellas fotografías que hayan sido manipuladas de manera digital con algún programa para ese fin, con la finalidad de crear imágenes elaboradas. Únicamente se permite la ecualización.</li>
+	<li style="text-align: justify;">Las fotografías que no cumplan con estos requisitos no serán juzgadas, y quedaran automáticamente fuera del concurso.</li>
+	<li style="text-align: justify;">La SIC-UES se reserva el derecho de resolver en forma inapelable cualquier situación no prevista en este documento. El simple hecho de participar en este concurso implica el conocimiento y aceptación de estas bases y de las modificaciones que pudiera realizar el comité organizador respecto de las mismas.</li>
+</ul>";s:4:"code";s:2370:"{% put sidebarSection %}
+<h3>Bases del concurso</h3>
+
+<p align="justify">El concurso fotográfico es gratis y abierto a docentes y estudiantes mayores de 18 años que están cursando asignaturas o desarrollando trabajos de tesis inscritos en las diferentes Facultades de la Universidad de El Salvador.</p>
+
+<p align="justify">El tema del presente concurso, puede cubrir cualquiera de las seis áreas de conocimiento, según al Manual de Frascati</p>
+
+<ol>
+	<li>Ciencias Naturales;</li>
+	<li>Ingeniería y Tecnología;</li>
+	<li>Ciencias Médicas y de la Salud;</li>
+	<li>Ciencias Agrícolas y Veterinarias;</li>
+	<li>Ciencias Sociales;</li>
+	<li>Humanidades y artes.</li>
+</ol>
+
+<h3>Calendario del Concurso</h3>
+
+<ul>
+	<li>Envío de las fotografías únicamente al correo electrónico: sic@ues.edu.sv, <strong>desde&nbsp;</strong><strong>el 15 de junio hasta el 15 de septiembre de 2021.</strong></li>
+	<li>Preselección de las fotografías: <strong>16 de septiembre al&nbsp;</strong><strong>10 de octubre de 2021.</strong></li>
+	<li>Notificación de los resultados de las fotografías preseleccionadas (<strong><u>1° ETAPA</u></strong>): <strong>11 de octubre de 2021.&nbsp;</strong></li>
+	<li>Exposición y votación general por el público en la Web (<strong>Facebook del SIC-UES</strong>) de fotografías preseleccionadas (<strong><u>2°ETAPA</u></strong>): <strong>12 al 15 de octubre de 2021.</strong></li>
+	<li>Juzgamiento final de las fotografías preseleccionadas y más votadas (<strong><u>3° ETAPA</u></strong>): <strong>18 de octubre de 2021.&nbsp;</strong></li>
+	<li>Notificación de los Resultados Finales vía Facebook de la SIC-UES: <strong>25 de octubre de 2021.&nbsp;</strong></li>
+	<li>Exposición de las obras, premiación e inauguración de colección permanente de fotografías en página Web de la SIC-UES: <strong>28 de octubre de 2021.&nbsp;</strong></li>
+</ul>
+
+<h3>Coordinadores</h3>
+
+<p>José Miguel Sermeño Chicas
+	<br><a href="mailto:jose.sermeno@ues.edu.sv">jose.sermeno@ues.edu.sv</a></p>
+
+<p>Luis Sánchez&nbsp;
+	<br><a href="mailto:luis.sanchez@ues.edu.sv">luis.sanchez@ues.edu.sv</a>&nbsp;</p>
+
+<p>Raúl Magarin&nbsp;
+	<br><a href="mailto:raul.magarin@ues.edu.sv">raul.magarin@ues.edu.sv</a></p>
+
+<p>Para mayor información: <a href="mailto:sic@ues.edu.sv">sic@ues.edu.sv</a></p>
+
+{% endput %}";s:7:"viewBag";a:6:{s:5:"title";s:21:"Concurso Fotográfico";s:3:"url";s:27:"/sobre-el-congreso/concurso";s:6:"layout";s:5:"chair";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";s:7:"tagline";s:21:"Concurso Fotográfico";}s:12:"parsedMarkup";s:6645:"<h3>Indicaciones Generales</h3>
+
+<ul>
+	<li style="text-align: justify;">Las fotografías deben ser específicas de cualquiera de los temas y captadas en El Salvador.</li>
+	<li style="text-align: justify;">Para poder participar en el concurso deberán enviar las fotografías únicamente al correo electrónico: sic@ues.edu.sv</li>
+	<li style="text-align: justify;">Fotografías que muestren directamente leyendas o marcas que puedan interpretarse a juicio del jurado como publicidad, serán eliminadas. Tampoco serán tomadas en cuenta fotografías que hayan sido acreedoras de distinciones (premios) en otros certámenes, y todas deberán responder al tema central del presente concurso.</li>
+	<li style="text-align: justify;">No podrá participar el personal involucrado directamente en la organización de esta actividad. Esta restricción es aplicable a los miembros del jurado.</li>
+	<li style="text-align: justify;">Derecho de inscripción gratuita.</li>
+	<li style="text-align: justify;">Se admitirán fotografías tomadas a partir de medios digitales.</li>
+	<li style="text-align: justify;">El proceso de elección de las fotografías constará de tres etapas: <strong>7a)&nbsp;</strong>En la <strong><u>1° ETAPA</u></strong>, el jurado realizará una preselección de las fotografías enviadas por correo electrónico. <strong>7b)&nbsp;</strong>Una vez realizada la preselección de las fotografías por parte del jurado, como una <strong><u>2° ETAPA</u></strong>, el público tendrá la posibilidad de votar por las fotografías de su agrado y que hayan sido preseleccionadas, a través de la página en <strong>Facebook</strong> de la SIC-UES. <strong>7c)&nbsp;</strong>Durante la <strong><u>3° ETAPA</u></strong>, se realizará el juzgamiento final de las fotografías preseleccionadas y más votadas hasta alcanzar el número de premios y menciones previstos (se contempla la posibilidad de que algún premio quede vacante, si el jurado lo determinase por alguna razón).</li>
+	<li style="text-align: justify;">Los participantes preseleccionados serán notificados vía correo electrónico y sus fotografías se colocarán en Facebook de la SIC-UES.</li>
+	<li style="text-align: justify;">El jurado calificador estará integrado por expertos en fotografía, tanto nacionales como internacionales.</li>
+	<li style="text-align: justify;">Se entregarán los siguientes premios: <strong><u>PRIMER LUGAR</u>: Diploma, ampliación fotográfica y regalo especial; <u>SEGUNDO LUGAR</u>: Diploma, ampliación fotográfica y regalo especial; <u>TERCER LUGAR</u>: Diploma, ampliación fotográfica y regalo especial; <u>MENCIONES</u>: Diplomas.</strong></li>
+	<li style="text-align: justify;">Las fotografías premiadas quedarán en poder de la Universidad de El Salvador, y pasarán a integrar el patrimonio permanente de la Institución. Las fotografías premiadas serán presentadas en una muestra que se realizará en la página Web de la SIC-UES, <strong>durante el mes de noviembre 2021.&nbsp;</strong>(Posibilidad de exponer en la Pinacoteca, con el apoyo de la Secretaría de Arte y Cultura (SAC-UES).</li>
+	<li style="text-align: justify;">Tanto las fotografías que se integran al Patrimonio de la Universidad de El Salvador (UES), como las menciones, podrán ser utilizadas en las actividades y proyectos de promoción cultural, tales como reproducción, impresión, publicación, exposición y toda otra difusión que la UES considere pertinente, mencionándose oportunamente el nombre del autor y el título de la obra, sin que esto suponga retribución y/o compensación económica alguna. No obstante, los autores conservan sus Derechos de Propiedad Intelectual de acuerdo con la ley y se responsabilizan del cumplimiento de las disposiciones legales en materia de dicha ley y del derecho a la propia imagen, siendo responsables de que la difusión, reproducción o edición de la obra en el marco del presente concurso no lesione derecho alguno de terceros.</li>
+	<li style="text-align: justify;">El Jurado se reserva el derecho de explicar los motivos que generaron las decisiones tomadas, las cuales son de carácter confidencial. No se darán bajo ninguna circunstancia motivos o explicaciones verbales o escritas con respecto a las decisiones finales.</li>
+</ul>
+
+<h3>Modo de presentación</h3>
+
+<ul>
+	<li style="text-align: justify;">Para la <strong>1° ETAPA</strong>de selección, cada participante deberá enviar únicamente vía correo electrónico un máximo de cuatro (4) fotografías candidatas en color (enviar de 1 a 4 fotografías adjuntas por el correo electrónico, no se permite enviar más de un correo con fotos adjuntas), completar la siguiente información requerida:
+
+		<ul>
+			<li style="text-align: justify;">Nombre completo del autor de la fotografía.</li>
+			<li style="text-align: justify;">Número de DUI</li>
+			<li style="text-align: justify;">Carrera.</li>
+			<li style="text-align: justify;">Un texto de leyenda informativo de la imagen tipo pie de foto.</li>
+		</ul>
+	</li>
+	<li style="text-align: justify;">Deberán presentarse en formato jpg, en 72 dpi de resolución, 8 Megapíxeles y con un peso que no supere los 2 MB. Asimismo, las tomas no deberán superar los tres años de antigüedad.</li>
+	<li style="text-align: justify;">Finalizado el envío por correo electrónico y una vez aceptados todos los términos y condiciones, cada participante recibirá una notificación vía correo electrónico con su <strong>NÚMERO DE PARTICIPACIÓN</strong>. Los participantes que envíen más de cuatro (4) fotografías, serán eliminados automáticamente. No se permitirá que las fotos enviadas al concurso sean publicadas en cualquier medio anteriormente a la premiación.</li>
+	<li style="text-align: justify;">Las fotografías no deben llevar en su frente ninguna inscripción.</li>
+	<li style="text-align: justify;">No se tomarán en cuenta aquellas fotografías que hayan sido manipuladas de manera digital con algún programa para ese fin, con la finalidad de crear imágenes elaboradas. Únicamente se permite la ecualización.</li>
+	<li style="text-align: justify;">Las fotografías que no cumplan con estos requisitos no serán juzgadas, y quedaran automáticamente fuera del concurso.</li>
+	<li style="text-align: justify;">La SIC-UES se reserva el derecho de resolver en forma inapelable cualquier situación no prevista en este documento. El simple hecho de participar en este concurso implica el conocimiento y aceptación de estas bases y de las modificaciones que pudiera realizar el comité organizador respecto de las mismas.</li>
+</ul>";}}

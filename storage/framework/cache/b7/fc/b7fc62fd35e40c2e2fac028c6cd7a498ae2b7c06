@@ -1,0 +1,641 @@
+1623451934a:1:{s:22:"chairs-wheelchairs.htm";a:7:{s:8:"fileName";s:22:"chairs-wheelchairs.htm";s:7:"content";s:5826:"[viewBag]
+title = "Programa"
+url = "/sobre-el-congreso/programa"
+layout = "default"
+is_hidden = 0
+navigation_hidden = 0
+==
+<h3>Programa del IV Congreso de Investigaciones Científicas</h3>
+
+<p>
+	<br>
+</p>
+
+<table class="oc-dashed-borders" cellspacing="0" cellpadding="0" border="0">
+	<tbody>
+		<tr>
+			<td style="background-color: rgb(255, 255, 255);" width="208">
+
+				<p class="oc-text-uppercase" align="center">
+					<br>
+				</p>
+
+				<p class="oc-text-uppercase" align="center"><strong>Martes, 26 de octubre</strong></p>
+
+				<p class="oc-text-uppercase" align="center">
+					<br>
+				</p>
+			</td>
+			<td style="background-color: rgb(239, 239, 239);" width="208">
+
+				<p class="oc-text-uppercase" align="center">
+					<br>
+				</p>
+
+				<p class="oc-text-uppercase" align="center"><strong>Miércoles, 27 de octubre</strong></p>
+
+				<p class="oc-text-uppercase" align="center">
+					<br>
+				</p>
+			</td>
+			<td style="background-color: rgb(255, 255, 255);" width="208">
+
+				<p class="oc-text-uppercase" align="center">
+					<br>
+				</p>
+
+				<p class="oc-text-uppercase" align="center"><strong>Jueves, 28 de octubre</strong></p>
+
+				<p class="oc-text-uppercase" align="center">
+					<br>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: rgb(255, 255, 255);" width="208" valign="top">
+
+				<p style="text-align: center;"><strong>Jornada Matutina</strong></p>
+
+				<p style="text-align: center;"><u>Acto de Inauguración</u></p>
+
+				<p style="text-align: center;">Apertura de Transmisión - Antesala</p>
+
+				<p style="text-align: center;">Himno Nacional de El Salvador</p>
+
+				<p style="text-align: center;">Palabras de Bienvenida</p>
+
+				<p style="text-align: center;">Palabras Alusivas</p>
+
+				<p style="text-align: center;">Palabras de Inauguración</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;"><u>Área de Conocimiento: Ciencias Naturales</u></p>
+
+				<p style="text-align: center;"><em>Conferencia Magistral&nbsp;</em></p>
+
+				<p style="text-align: center;">Ponencia 1</p>
+
+				<p style="text-align: center;">Ponencia 2</p>
+
+				<p style="text-align: center;">Ponencia 3</p>
+
+				<p style="text-align: center;">Ponencia 4</p>
+
+				<p style="text-align: center;">Ponencia 5</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;"><strong>Jornada Vespertina</strong></p>
+
+				<p style="text-align: center;"><u>Área de Conocimiento: Ingeniería y Tecnología</u></p>
+
+				<p style="text-align: center;"><em>Conferencia Magistral&nbsp;</em></p>
+
+				<p style="text-align: center;">Ponencia 1</p>
+
+				<p style="text-align: center;">Ponencia 2</p>
+
+				<p style="text-align: center;">Ponencia 3</p>
+
+				<p style="text-align: center;">Ponencia 4</p>
+
+				<p style="text-align: center;">Ponencia 5</p>
+			</td>
+			<td style="background-color: rgb(239, 239, 239);" width="208" valign="top">
+
+				<p style="text-align: center;"><strong>Jornada Matutina</strong></p>
+
+				<p style="text-align: center;"><u>Área de Conocimiento: Ciencias Médicas y de la Salud</u></p>
+
+				<p style="text-align: center;"><em>Conferencia Magistral&nbsp;</em></p>
+
+				<p style="text-align: center;">Ponencia 1</p>
+
+				<p style="text-align: center;">Ponencia 2</p>
+
+				<p style="text-align: center;">Ponencia 3</p>
+
+				<p style="text-align: center;">Ponencia 4</p>
+
+				<p style="text-align: center;">Ponencia 5</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;"><strong>Jornada Vespertina</strong></p>
+
+				<p style="text-align: center;"><u>Área de Conocimiento: Ciencias Agrícolas y Veterinarias</u></p>
+
+				<p style="text-align: center;"><em>Conferencia Magistral&nbsp;</em></p>
+
+				<p style="text-align: center;">Ponencia 1</p>
+
+				<p style="text-align: center;">Ponencia 2</p>
+
+				<p style="text-align: center;">Ponencia 3</p>
+
+				<p style="text-align: center;">Ponencia 4</p>
+
+				<p style="text-align: center;">Ponencia 5</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+			</td>
+			<td style="background-color: rgb(255, 255, 255);" width="208" valign="top">
+
+				<p style="text-align: center;"><strong>Jornada Matutina</strong></p>
+
+				<p style="text-align: center;"><u>Área de Conocimiento: Ciencias Sociales</u></p>
+
+				<p style="text-align: center;"><em>Conferencia Magistral&nbsp;</em></p>
+
+				<p style="text-align: center;">Ponencia 1</p>
+
+				<p style="text-align: center;">Ponencia 2</p>
+
+				<p style="text-align: center;">Ponencia 3</p>
+
+				<p style="text-align: center;">Ponencia 4</p>
+
+				<p style="text-align: center;">Ponencia 5</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;"><strong>Jornada Vespertina</strong></p>
+
+				<p style="text-align: center;"><u>Área de Conocimiento: Humanidades y Artes&nbsp;</u></p>
+
+				<p style="text-align: center;"><em>Conferencia Magistral&nbsp;</em></p>
+
+				<p style="text-align: center;">Ponencia 1</p>
+
+				<p style="text-align: center;">Ponencia 2</p>
+
+				<p style="text-align: center;">Ponencia 3</p>
+
+				<p style="text-align: center;">Ponencia 4</p>
+
+				<p style="text-align: center;">Ponencia 5</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>";s:5:"mtime";i:1623423882;s:6:"markup";s:5703:"<h3>Programa del IV Congreso de Investigaciones Científicas</h3>
+
+<p>
+	<br>
+</p>
+
+<table class="oc-dashed-borders" cellspacing="0" cellpadding="0" border="0">
+	<tbody>
+		<tr>
+			<td style="background-color: rgb(255, 255, 255);" width="208">
+
+				<p class="oc-text-uppercase" align="center">
+					<br>
+				</p>
+
+				<p class="oc-text-uppercase" align="center"><strong>Martes, 26 de octubre</strong></p>
+
+				<p class="oc-text-uppercase" align="center">
+					<br>
+				</p>
+			</td>
+			<td style="background-color: rgb(239, 239, 239);" width="208">
+
+				<p class="oc-text-uppercase" align="center">
+					<br>
+				</p>
+
+				<p class="oc-text-uppercase" align="center"><strong>Miércoles, 27 de octubre</strong></p>
+
+				<p class="oc-text-uppercase" align="center">
+					<br>
+				</p>
+			</td>
+			<td style="background-color: rgb(255, 255, 255);" width="208">
+
+				<p class="oc-text-uppercase" align="center">
+					<br>
+				</p>
+
+				<p class="oc-text-uppercase" align="center"><strong>Jueves, 28 de octubre</strong></p>
+
+				<p class="oc-text-uppercase" align="center">
+					<br>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: rgb(255, 255, 255);" width="208" valign="top">
+
+				<p style="text-align: center;"><strong>Jornada Matutina</strong></p>
+
+				<p style="text-align: center;"><u>Acto de Inauguración</u></p>
+
+				<p style="text-align: center;">Apertura de Transmisión - Antesala</p>
+
+				<p style="text-align: center;">Himno Nacional de El Salvador</p>
+
+				<p style="text-align: center;">Palabras de Bienvenida</p>
+
+				<p style="text-align: center;">Palabras Alusivas</p>
+
+				<p style="text-align: center;">Palabras de Inauguración</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;"><u>Área de Conocimiento: Ciencias Naturales</u></p>
+
+				<p style="text-align: center;"><em>Conferencia Magistral&nbsp;</em></p>
+
+				<p style="text-align: center;">Ponencia 1</p>
+
+				<p style="text-align: center;">Ponencia 2</p>
+
+				<p style="text-align: center;">Ponencia 3</p>
+
+				<p style="text-align: center;">Ponencia 4</p>
+
+				<p style="text-align: center;">Ponencia 5</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;"><strong>Jornada Vespertina</strong></p>
+
+				<p style="text-align: center;"><u>Área de Conocimiento: Ingeniería y Tecnología</u></p>
+
+				<p style="text-align: center;"><em>Conferencia Magistral&nbsp;</em></p>
+
+				<p style="text-align: center;">Ponencia 1</p>
+
+				<p style="text-align: center;">Ponencia 2</p>
+
+				<p style="text-align: center;">Ponencia 3</p>
+
+				<p style="text-align: center;">Ponencia 4</p>
+
+				<p style="text-align: center;">Ponencia 5</p>
+			</td>
+			<td style="background-color: rgb(239, 239, 239);" width="208" valign="top">
+
+				<p style="text-align: center;"><strong>Jornada Matutina</strong></p>
+
+				<p style="text-align: center;"><u>Área de Conocimiento: Ciencias Médicas y de la Salud</u></p>
+
+				<p style="text-align: center;"><em>Conferencia Magistral&nbsp;</em></p>
+
+				<p style="text-align: center;">Ponencia 1</p>
+
+				<p style="text-align: center;">Ponencia 2</p>
+
+				<p style="text-align: center;">Ponencia 3</p>
+
+				<p style="text-align: center;">Ponencia 4</p>
+
+				<p style="text-align: center;">Ponencia 5</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;"><strong>Jornada Vespertina</strong></p>
+
+				<p style="text-align: center;"><u>Área de Conocimiento: Ciencias Agrícolas y Veterinarias</u></p>
+
+				<p style="text-align: center;"><em>Conferencia Magistral&nbsp;</em></p>
+
+				<p style="text-align: center;">Ponencia 1</p>
+
+				<p style="text-align: center;">Ponencia 2</p>
+
+				<p style="text-align: center;">Ponencia 3</p>
+
+				<p style="text-align: center;">Ponencia 4</p>
+
+				<p style="text-align: center;">Ponencia 5</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+			</td>
+			<td style="background-color: rgb(255, 255, 255);" width="208" valign="top">
+
+				<p style="text-align: center;"><strong>Jornada Matutina</strong></p>
+
+				<p style="text-align: center;"><u>Área de Conocimiento: Ciencias Sociales</u></p>
+
+				<p style="text-align: center;"><em>Conferencia Magistral&nbsp;</em></p>
+
+				<p style="text-align: center;">Ponencia 1</p>
+
+				<p style="text-align: center;">Ponencia 2</p>
+
+				<p style="text-align: center;">Ponencia 3</p>
+
+				<p style="text-align: center;">Ponencia 4</p>
+
+				<p style="text-align: center;">Ponencia 5</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;"><strong>Jornada Vespertina</strong></p>
+
+				<p style="text-align: center;"><u>Área de Conocimiento: Humanidades y Artes&nbsp;</u></p>
+
+				<p style="text-align: center;"><em>Conferencia Magistral&nbsp;</em></p>
+
+				<p style="text-align: center;">Ponencia 1</p>
+
+				<p style="text-align: center;">Ponencia 2</p>
+
+				<p style="text-align: center;">Ponencia 3</p>
+
+				<p style="text-align: center;">Ponencia 4</p>
+
+				<p style="text-align: center;">Ponencia 5</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>";s:4:"code";N;s:7:"viewBag";a:5:{s:5:"title";s:8:"Programa";s:3:"url";s:27:"/sobre-el-congreso/programa";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";}s:12:"parsedMarkup";s:5703:"<h3>Programa del IV Congreso de Investigaciones Científicas</h3>
+
+<p>
+	<br>
+</p>
+
+<table class="oc-dashed-borders" cellspacing="0" cellpadding="0" border="0">
+	<tbody>
+		<tr>
+			<td style="background-color: rgb(255, 255, 255);" width="208">
+
+				<p class="oc-text-uppercase" align="center">
+					<br>
+				</p>
+
+				<p class="oc-text-uppercase" align="center"><strong>Martes, 26 de octubre</strong></p>
+
+				<p class="oc-text-uppercase" align="center">
+					<br>
+				</p>
+			</td>
+			<td style="background-color: rgb(239, 239, 239);" width="208">
+
+				<p class="oc-text-uppercase" align="center">
+					<br>
+				</p>
+
+				<p class="oc-text-uppercase" align="center"><strong>Miércoles, 27 de octubre</strong></p>
+
+				<p class="oc-text-uppercase" align="center">
+					<br>
+				</p>
+			</td>
+			<td style="background-color: rgb(255, 255, 255);" width="208">
+
+				<p class="oc-text-uppercase" align="center">
+					<br>
+				</p>
+
+				<p class="oc-text-uppercase" align="center"><strong>Jueves, 28 de octubre</strong></p>
+
+				<p class="oc-text-uppercase" align="center">
+					<br>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: rgb(255, 255, 255);" width="208" valign="top">
+
+				<p style="text-align: center;"><strong>Jornada Matutina</strong></p>
+
+				<p style="text-align: center;"><u>Acto de Inauguración</u></p>
+
+				<p style="text-align: center;">Apertura de Transmisión - Antesala</p>
+
+				<p style="text-align: center;">Himno Nacional de El Salvador</p>
+
+				<p style="text-align: center;">Palabras de Bienvenida</p>
+
+				<p style="text-align: center;">Palabras Alusivas</p>
+
+				<p style="text-align: center;">Palabras de Inauguración</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;"><u>Área de Conocimiento: Ciencias Naturales</u></p>
+
+				<p style="text-align: center;"><em>Conferencia Magistral&nbsp;</em></p>
+
+				<p style="text-align: center;">Ponencia 1</p>
+
+				<p style="text-align: center;">Ponencia 2</p>
+
+				<p style="text-align: center;">Ponencia 3</p>
+
+				<p style="text-align: center;">Ponencia 4</p>
+
+				<p style="text-align: center;">Ponencia 5</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;"><strong>Jornada Vespertina</strong></p>
+
+				<p style="text-align: center;"><u>Área de Conocimiento: Ingeniería y Tecnología</u></p>
+
+				<p style="text-align: center;"><em>Conferencia Magistral&nbsp;</em></p>
+
+				<p style="text-align: center;">Ponencia 1</p>
+
+				<p style="text-align: center;">Ponencia 2</p>
+
+				<p style="text-align: center;">Ponencia 3</p>
+
+				<p style="text-align: center;">Ponencia 4</p>
+
+				<p style="text-align: center;">Ponencia 5</p>
+			</td>
+			<td style="background-color: rgb(239, 239, 239);" width="208" valign="top">
+
+				<p style="text-align: center;"><strong>Jornada Matutina</strong></p>
+
+				<p style="text-align: center;"><u>Área de Conocimiento: Ciencias Médicas y de la Salud</u></p>
+
+				<p style="text-align: center;"><em>Conferencia Magistral&nbsp;</em></p>
+
+				<p style="text-align: center;">Ponencia 1</p>
+
+				<p style="text-align: center;">Ponencia 2</p>
+
+				<p style="text-align: center;">Ponencia 3</p>
+
+				<p style="text-align: center;">Ponencia 4</p>
+
+				<p style="text-align: center;">Ponencia 5</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;"><strong>Jornada Vespertina</strong></p>
+
+				<p style="text-align: center;"><u>Área de Conocimiento: Ciencias Agrícolas y Veterinarias</u></p>
+
+				<p style="text-align: center;"><em>Conferencia Magistral&nbsp;</em></p>
+
+				<p style="text-align: center;">Ponencia 1</p>
+
+				<p style="text-align: center;">Ponencia 2</p>
+
+				<p style="text-align: center;">Ponencia 3</p>
+
+				<p style="text-align: center;">Ponencia 4</p>
+
+				<p style="text-align: center;">Ponencia 5</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+			</td>
+			<td style="background-color: rgb(255, 255, 255);" width="208" valign="top">
+
+				<p style="text-align: center;"><strong>Jornada Matutina</strong></p>
+
+				<p style="text-align: center;"><u>Área de Conocimiento: Ciencias Sociales</u></p>
+
+				<p style="text-align: center;"><em>Conferencia Magistral&nbsp;</em></p>
+
+				<p style="text-align: center;">Ponencia 1</p>
+
+				<p style="text-align: center;">Ponencia 2</p>
+
+				<p style="text-align: center;">Ponencia 3</p>
+
+				<p style="text-align: center;">Ponencia 4</p>
+
+				<p style="text-align: center;">Ponencia 5</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+
+				<p style="text-align: center;"><strong>Jornada Vespertina</strong></p>
+
+				<p style="text-align: center;"><u>Área de Conocimiento: Humanidades y Artes&nbsp;</u></p>
+
+				<p style="text-align: center;"><em>Conferencia Magistral&nbsp;</em></p>
+
+				<p style="text-align: center;">Ponencia 1</p>
+
+				<p style="text-align: center;">Ponencia 2</p>
+
+				<p style="text-align: center;">Ponencia 3</p>
+
+				<p style="text-align: center;">Ponencia 4</p>
+
+				<p style="text-align: center;">Ponencia 5</p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>";}}

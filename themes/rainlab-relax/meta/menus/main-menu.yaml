@@ -1,0 +1,46 @@
+name: 'Main Menu'
+items:
+    -
+        title: Inicio
+        nesting: 0
+        type: static-page
+        url: null
+        code: ''
+        reference: index
+        cmsPage: null
+        replace: 0
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: Nosotros
+        nesting: 0
+        type: static-page
+        code: ''
+        reference: about
+        replace: 0
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: 'Sobre el Congreso'
+        nesting: 1
+        type: static-page
+        code: ''
+        reference: chairs
+        replace: 0
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: Contáctenos
+        type: cms-page
+        code: ''
+        reference: contact
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'

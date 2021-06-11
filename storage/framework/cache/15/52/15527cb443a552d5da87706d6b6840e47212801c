@@ -1,0 +1,35 @@
+1623452479a:1:{s:10:"header.htm";a:6:{s:8:"fileName";s:10:"header.htm";s:7:"content";s:595:"[viewBag]
+==
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="logo">
+                <a href="{{ 'index'|staticPage }}">
+                    <img src="{{ 'assets/images/logo.png'|theme }}" alt="IV Congreso de Investigaciones Científicas" />
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="contact-phone"> <!--contact-phone-->
+                <label>Escríbenos</label>
+                <span>sic@ues.edu.sv</span>
+            </div>
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1623451875;s:6:"markup";s:582:"<div class="container">
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="logo">
+                <a href="{{ 'index'|staticPage }}">
+                    <img src="{{ 'assets/images/logo.png'|theme }}" alt="IV Congreso de Investigaciones Científicas" />
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="contact-phone"> <!--contact-phone-->
+                <label>Escríbenos</label>
+                <span>sic@ues.edu.sv</span>
+            </div>
+        </div>
+    </div>
+</div>";s:4:"code";N;s:7:"viewBag";a:0:{}}}

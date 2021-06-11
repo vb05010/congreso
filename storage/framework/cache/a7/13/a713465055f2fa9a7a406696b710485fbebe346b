@@ -1,0 +1,17 @@
+1623451934a:1:{s:16:"chairs-sofas.htm";a:9:{s:8:"fileName";s:16:"chairs-sofas.htm";s:7:"content";s:286:"[viewBag]
+title = "Registro e inscripción"
+url = "/sobre-el-congreso/registro"
+layout = "chair"
+is_hidden = 0
+navigation_hidden = 0
+tagline = "Registro e inscripción"
+
+[account]
+redirect = "account"
+paramCode = "code"
+forceSecure = 0
+requirePassword = 1
+
+[session]
+security = "all"
+==";s:5:"mtime";i:1623299901;s:6:"markup";s:0:"";s:4:"code";N;s:7:"viewBag";a:6:{s:5:"title";s:23:"Registro e inscripción";s:3:"url";s:27:"/sobre-el-congreso/registro";s:6:"layout";s:5:"chair";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";s:7:"tagline";s:23:"Registro e inscripción";}s:7:"account";a:4:{s:8:"redirect";s:7:"account";s:9:"paramCode";s:4:"code";s:11:"forceSecure";s:1:"0";s:15:"requirePassword";s:1:"1";}s:7:"session";a:1:{s:8:"security";s:3:"all";}s:12:"parsedMarkup";s:0:"";}}

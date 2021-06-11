@@ -1,0 +1,334 @@
+1623451934a:1:{s:22:"chairs-high-chairs.htm";a:7:{s:8:"fileName";s:22:"chairs-high-chairs.htm";s:7:"content";s:3936:"[viewBag]
+title = "Áreas de Conocimiento"
+url = "/sobre-el-congreso/areas"
+layout = "chair"
+is_hidden = 0
+navigation_hidden = 0
+tagline = "Áreas de Conocimiento"
+==
+{% put sidebarSection %}
+<h3>Conferencia Magistral</h3>
+
+<p align="justify">La Conferencia Magistral del Área de Conocimiento, serán de 25 minutos y 5 de preguntas, abordando aspectos relacionados con las necesidades de investigación científica y otros aspectos que permitan motivar a los asistentes a trabajar en el área de conocimiento a través de programas de investigación científica y la creación de redes de investigador. A los ponentes en las Conferencias Magistrales, se les entregara Diploma en formato digital.</p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/registro">Ir a: &gt;&gt;Registro e Inscripción</a></p>
+
+{% endput %}
+==
+<h3>Área del Conocimiento</h3>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>Clasificación principal (Áreas de conocimiento)</th>
+			<th>Clasificación Secundaria</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="success">
+			<td>1. Ciencias Naturales</td>
+			<td>
+
+				<ul>
+					<li>1.1 Matemáticas</li>
+					<li>1.2 Ciencias de la Información y la Comunicación</li>
+					<li>1.3 Ciencias Físicas</li>
+					<li>1.4 Ciencias Químicas</li>
+					<li>1.5 Ciencias de la Tierra y Ciencias relacionadas con el Medioambiente</li>
+					<li>1.6 Ciencias Biológicas</li>
+					<li>1.7 Otras ciencias naturales</li>
+				</ul>
+			</td>
+		</tr>
+		<tr class="warning">
+			<td>2. Ingeniería y Tecnología</td>
+			<td>
+
+				<ul>
+					<li>2.1 Ingeniería Civil</li>
+					<li>2.2 Ingeniería Eléctrica, Electrónica e Informática</li>
+					<li>2.3 Ingeniería Mecánica</li>
+					<li>2.4 Ingeniería Química</li>
+					<li>2.5 Ingeniería de los Materiales</li>
+					<li>2.6 Ingeniería Médica</li>
+					<li>2.7 Ingeniería Ambiental</li>
+					<li>2.8 Biotecnología Ambiental</li>
+					<li>2.9 Biotecnología Industrial</li>
+					<li>2.10 Nanotecnología</li>
+					<li>2.11 Otras ingenierías y tecnologías</li>
+				</ul>
+			</td>
+		</tr>
+		<tr class="success">
+			<td>3. Ciencias Médicas y de la Salud</td>
+			<td>
+
+				<ul>
+					<li>3.1 Medicina básica</li>
+					<li>3.2 Medicina Clínica</li>
+					<li>3.3 Ciencias de la Salud</li>
+					<li>3.4 Biotecnología Médica</li>
+					<li>3.5 Otras ciencias médicas</li>
+				</ul>
+			</td>
+		</tr>
+		<tr class="warning">
+			<td>4. Ciencias Agrícolas y Veterinarias</td>
+			<td>
+
+				<ul>
+					<li>4.1 Agricultura, Silvicultura y Pesca</li>
+					<li>4.2 Ciencia Animal y de los Lácteos</li>
+					<li>4.3 Ciencia Veterinaria</li>
+					<li>4.4 Biotecnología Agrícola</li>
+					<li>4.5 Otras ciencias agrícolas</li>
+				</ul>
+			</td>
+		</tr>
+		<tr class="success">
+			<td>5. Ciencias Sociales</td>
+			<td>
+
+				<ul>
+					<li>5.1 Psicología y Ciencias Cognitivas</li>
+					<li>5.2 Economía y Comercio</li>
+					<li>5.3 Educación</li>
+					<li>5.4 Sociología</li>
+					<li>5.5 Derecho</li>
+					<li>5.6 Ciencia Política</li>
+					<li>5.7 Geografía Social y Económica</li>
+					<li>5.8 Medios de comunicación</li>
+					<li>5.9 Otras ciencias sociales</li>
+				</ul>
+			</td>
+		</tr>
+		<tr class="warning">
+			<td>6. Humanidades y artes</td>
+			<td>
+
+				<ul>
+					<li>6.1 Historia y Arqueología</li>
+					<li>6.2 Lengua y Literatura</li>
+					<li>6.3 Filosofía, Ética y Religión</li>
+					<li>6.4 Artes (Arte, Historia del Arte, Artes Escénicas, Música)</li>
+					<li>6.5 Otras ciencias humanas</li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Fuente: Manual de <a href="https://www.oecd-ilibrary.org/docserver/9789264310681-es.pdf?expires=1620001675&amp;id=id&amp;accname=guest&amp;checksum=BAF7A9D08EDD4C80A318C27A8B0490D0" target="_blank">Frascati, 2015</a>. Ámbitos de clasificación de la I+D</p>";s:5:"mtime";i:1623305830;s:6:"markup";s:3065:"<h3>Área del Conocimiento</h3>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>Clasificación principal (Áreas de conocimiento)</th>
+			<th>Clasificación Secundaria</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="success">
+			<td>1. Ciencias Naturales</td>
+			<td>
+
+				<ul>
+					<li>1.1 Matemáticas</li>
+					<li>1.2 Ciencias de la Información y la Comunicación</li>
+					<li>1.3 Ciencias Físicas</li>
+					<li>1.4 Ciencias Químicas</li>
+					<li>1.5 Ciencias de la Tierra y Ciencias relacionadas con el Medioambiente</li>
+					<li>1.6 Ciencias Biológicas</li>
+					<li>1.7 Otras ciencias naturales</li>
+				</ul>
+			</td>
+		</tr>
+		<tr class="warning">
+			<td>2. Ingeniería y Tecnología</td>
+			<td>
+
+				<ul>
+					<li>2.1 Ingeniería Civil</li>
+					<li>2.2 Ingeniería Eléctrica, Electrónica e Informática</li>
+					<li>2.3 Ingeniería Mecánica</li>
+					<li>2.4 Ingeniería Química</li>
+					<li>2.5 Ingeniería de los Materiales</li>
+					<li>2.6 Ingeniería Médica</li>
+					<li>2.7 Ingeniería Ambiental</li>
+					<li>2.8 Biotecnología Ambiental</li>
+					<li>2.9 Biotecnología Industrial</li>
+					<li>2.10 Nanotecnología</li>
+					<li>2.11 Otras ingenierías y tecnologías</li>
+				</ul>
+			</td>
+		</tr>
+		<tr class="success">
+			<td>3. Ciencias Médicas y de la Salud</td>
+			<td>
+
+				<ul>
+					<li>3.1 Medicina básica</li>
+					<li>3.2 Medicina Clínica</li>
+					<li>3.3 Ciencias de la Salud</li>
+					<li>3.4 Biotecnología Médica</li>
+					<li>3.5 Otras ciencias médicas</li>
+				</ul>
+			</td>
+		</tr>
+		<tr class="warning">
+			<td>4. Ciencias Agrícolas y Veterinarias</td>
+			<td>
+
+				<ul>
+					<li>4.1 Agricultura, Silvicultura y Pesca</li>
+					<li>4.2 Ciencia Animal y de los Lácteos</li>
+					<li>4.3 Ciencia Veterinaria</li>
+					<li>4.4 Biotecnología Agrícola</li>
+					<li>4.5 Otras ciencias agrícolas</li>
+				</ul>
+			</td>
+		</tr>
+		<tr class="success">
+			<td>5. Ciencias Sociales</td>
+			<td>
+
+				<ul>
+					<li>5.1 Psicología y Ciencias Cognitivas</li>
+					<li>5.2 Economía y Comercio</li>
+					<li>5.3 Educación</li>
+					<li>5.4 Sociología</li>
+					<li>5.5 Derecho</li>
+					<li>5.6 Ciencia Política</li>
+					<li>5.7 Geografía Social y Económica</li>
+					<li>5.8 Medios de comunicación</li>
+					<li>5.9 Otras ciencias sociales</li>
+				</ul>
+			</td>
+		</tr>
+		<tr class="warning">
+			<td>6. Humanidades y artes</td>
+			<td>
+
+				<ul>
+					<li>6.1 Historia y Arqueología</li>
+					<li>6.2 Lengua y Literatura</li>
+					<li>6.3 Filosofía, Ética y Religión</li>
+					<li>6.4 Artes (Arte, Historia del Arte, Artes Escénicas, Música)</li>
+					<li>6.5 Otras ciencias humanas</li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Fuente: Manual de <a href="https://www.oecd-ilibrary.org/docserver/9789264310681-es.pdf?expires=1620001675&amp;id=id&amp;accname=guest&amp;checksum=BAF7A9D08EDD4C80A318C27A8B0490D0" target="_blank">Frascati, 2015</a>. Ámbitos de clasificación de la I+D</p>";s:4:"code";s:700:"{% put sidebarSection %}
+<h3>Conferencia Magistral</h3>
+
+<p align="justify">La Conferencia Magistral del Área de Conocimiento, serán de 25 minutos y 5 de preguntas, abordando aspectos relacionados con las necesidades de investigación científica y otros aspectos que permitan motivar a los asistentes a trabajar en el área de conocimiento a través de programas de investigación científica y la creación de redes de investigador. A los ponentes en las Conferencias Magistrales, se les entregara Diploma en formato digital.</p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/registro">Ir a: &gt;&gt;Registro e Inscripción</a></p>
+
+{% endput %}";s:7:"viewBag";a:6:{s:5:"title";s:22:"Áreas de Conocimiento";s:3:"url";s:24:"/sobre-el-congreso/areas";s:6:"layout";s:5:"chair";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";s:7:"tagline";s:22:"Áreas de Conocimiento";}s:12:"parsedMarkup";s:3065:"<h3>Área del Conocimiento</h3>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>Clasificación principal (Áreas de conocimiento)</th>
+			<th>Clasificación Secundaria</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="success">
+			<td>1. Ciencias Naturales</td>
+			<td>
+
+				<ul>
+					<li>1.1 Matemáticas</li>
+					<li>1.2 Ciencias de la Información y la Comunicación</li>
+					<li>1.3 Ciencias Físicas</li>
+					<li>1.4 Ciencias Químicas</li>
+					<li>1.5 Ciencias de la Tierra y Ciencias relacionadas con el Medioambiente</li>
+					<li>1.6 Ciencias Biológicas</li>
+					<li>1.7 Otras ciencias naturales</li>
+				</ul>
+			</td>
+		</tr>
+		<tr class="warning">
+			<td>2. Ingeniería y Tecnología</td>
+			<td>
+
+				<ul>
+					<li>2.1 Ingeniería Civil</li>
+					<li>2.2 Ingeniería Eléctrica, Electrónica e Informática</li>
+					<li>2.3 Ingeniería Mecánica</li>
+					<li>2.4 Ingeniería Química</li>
+					<li>2.5 Ingeniería de los Materiales</li>
+					<li>2.6 Ingeniería Médica</li>
+					<li>2.7 Ingeniería Ambiental</li>
+					<li>2.8 Biotecnología Ambiental</li>
+					<li>2.9 Biotecnología Industrial</li>
+					<li>2.10 Nanotecnología</li>
+					<li>2.11 Otras ingenierías y tecnologías</li>
+				</ul>
+			</td>
+		</tr>
+		<tr class="success">
+			<td>3. Ciencias Médicas y de la Salud</td>
+			<td>
+
+				<ul>
+					<li>3.1 Medicina básica</li>
+					<li>3.2 Medicina Clínica</li>
+					<li>3.3 Ciencias de la Salud</li>
+					<li>3.4 Biotecnología Médica</li>
+					<li>3.5 Otras ciencias médicas</li>
+				</ul>
+			</td>
+		</tr>
+		<tr class="warning">
+			<td>4. Ciencias Agrícolas y Veterinarias</td>
+			<td>
+
+				<ul>
+					<li>4.1 Agricultura, Silvicultura y Pesca</li>
+					<li>4.2 Ciencia Animal y de los Lácteos</li>
+					<li>4.3 Ciencia Veterinaria</li>
+					<li>4.4 Biotecnología Agrícola</li>
+					<li>4.5 Otras ciencias agrícolas</li>
+				</ul>
+			</td>
+		</tr>
+		<tr class="success">
+			<td>5. Ciencias Sociales</td>
+			<td>
+
+				<ul>
+					<li>5.1 Psicología y Ciencias Cognitivas</li>
+					<li>5.2 Economía y Comercio</li>
+					<li>5.3 Educación</li>
+					<li>5.4 Sociología</li>
+					<li>5.5 Derecho</li>
+					<li>5.6 Ciencia Política</li>
+					<li>5.7 Geografía Social y Económica</li>
+					<li>5.8 Medios de comunicación</li>
+					<li>5.9 Otras ciencias sociales</li>
+				</ul>
+			</td>
+		</tr>
+		<tr class="warning">
+			<td>6. Humanidades y artes</td>
+			<td>
+
+				<ul>
+					<li>6.1 Historia y Arqueología</li>
+					<li>6.2 Lengua y Literatura</li>
+					<li>6.3 Filosofía, Ética y Religión</li>
+					<li>6.4 Artes (Arte, Historia del Arte, Artes Escénicas, Música)</li>
+					<li>6.5 Otras ciencias humanas</li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Fuente: Manual de <a href="https://www.oecd-ilibrary.org/docserver/9789264310681-es.pdf?expires=1620001675&amp;id=id&amp;accname=guest&amp;checksum=BAF7A9D08EDD4C80A318C27A8B0490D0" target="_blank">Frascati, 2015</a>. Ámbitos de clasificación de la I+D</p>";}}

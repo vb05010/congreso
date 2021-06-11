@@ -1,0 +1,47 @@
+1623451934a:1:{s:14:"main-menu.yaml";a:7:{s:8:"fileName";s:14:"main-menu.yaml";s:7:"content";s:968:"name: 'Main Menu'
+items:
+    -
+        title: Inicio
+        nesting: 0
+        type: static-page
+        url: null
+        code: ''
+        reference: index
+        cmsPage: null
+        replace: 0
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: Nosotros
+        nesting: 0
+        type: static-page
+        code: ''
+        reference: about
+        replace: 0
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: 'Sobre el Congreso'
+        nesting: 1
+        type: static-page
+        code: ''
+        reference: chairs
+        replace: 0
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: Contáctenos
+        type: cms-page
+        code: ''
+        reference: contact
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+";s:5:"mtime";i:1623176635;s:6:"markup";N;s:4:"code";N;s:4:"name";N;s:5:"items";a:0:{}}}

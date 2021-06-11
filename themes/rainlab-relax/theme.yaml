@@ -1,0 +1,9 @@
+name: congreso
+description: 'IV Congreso de Investigación Cientifica. Secretaría de Investigaciones Científicas SIC UES. Universidad de El Salvador .'
+author: sicues
+homepage: 'https:sic.ues.edu.sv'
+code: congreso
+require:
+    - RainLab.User
+    - RainLab.Blog
+    - RainLab.Pages

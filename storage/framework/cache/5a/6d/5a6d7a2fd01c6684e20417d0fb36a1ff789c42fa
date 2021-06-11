@@ -1,0 +1,20 @@
+1623451934a:1:{s:9:"index.htm";a:7:{s:8:"fileName";s:9:"index.htm";s:7:"content";s:518:"[viewBag]
+title = "Inicio"
+url = "/"
+layout = "home"
+is_hidden = 0
+navigation_hidden = 0
+==
+<h3>Criterios y Metodología</h3>
+
+<p align="justify">Cada exposición será de 10 minutos y 5 minutos de preguntas y respuestas. Para cumplir con los tiempos estipulados, la ponencia tendrá un máximo de doce (12) diapositivas elaboradas según formato que puede ser bajado en el siguiente enlace:</p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso">Más Información</a></p>";s:5:"mtime";i:1623446806;s:6:"markup";s:426:"<h3>Criterios y Metodología</h3>
+
+<p align="justify">Cada exposición será de 10 minutos y 5 minutos de preguntas y respuestas. Para cumplir con los tiempos estipulados, la ponencia tendrá un máximo de doce (12) diapositivas elaboradas según formato que puede ser bajado en el siguiente enlace:</p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso">Más Información</a></p>";s:4:"code";N;s:7:"viewBag";a:5:{s:5:"title";s:6:"Inicio";s:3:"url";s:1:"/";s:6:"layout";s:4:"home";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";}s:12:"parsedMarkup";s:426:"<h3>Criterios y Metodología</h3>
+
+<p align="justify">Cada exposición será de 10 minutos y 5 minutos de preguntas y respuestas. Para cumplir con los tiempos estipulados, la ponencia tendrá un máximo de doce (12) diapositivas elaboradas según formato que puede ser bajado en el siguiente enlace:</p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso">Más Información</a></p>";}}
