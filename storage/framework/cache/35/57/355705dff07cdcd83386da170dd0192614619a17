@@ -1,4 +1,4 @@
-1623451934a:1:{s:10:"chairs.htm";a:7:{s:8:"fileName";s:10:"chairs.htm";s:7:"content";s:4976:"[viewBag]
+1624045751a:1:{s:10:"chairs.htm";a:7:{s:8:"fileName";s:10:"chairs.htm";s:7:"content";s:5285:"[viewBag]
 title = "Sobre el congreso"
 url = "/sobre-el-congreso"
 layout = "chair"
@@ -18,6 +18,12 @@ tagline = "Sobre el IV Congreso de Investigación Científica"
 	<li>Establecer alianzas con otras unidades y/o instituciones nacionales e internacionales.</li>
 	<li>El desarrollo del Congreso incluirá un concurso de fotografía.</li>
 </ol>
+
+<h3>Sobre el congreso</h3>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/sobre-el-congreso/registro">Ir a: &gt;&gt;Registro e inscripción</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/sobre-el-congreso/areas">Ir a: &gt;&gt;Áreas del Conocimiento</a></p>
 
 {% endput %}
 ==
@@ -42,7 +48,7 @@ tagline = "Sobre el IV Congreso de Investigación Científica"
 
 <p align="justify"><strong>Entrega de Diplomas en formato digital:</strong> a todos los ponentes que presenten sus investigaciones científicas, se les entregara un Diploma de participación.</p>
 
-<p align="justify"><strong>La Conferencia Magistral del Área de Conocimiento,</strong> serán de 25 minutos y 5 de preguntas, abordando aspectos relacionados con las necesidades de investigación científica y otros aspectos que permitan motivar a los asistentes a trabajar en el área de conocimiento a través de programas de investigación científica y la creación de redes de investigador. A los ponentes en las Conferencias Magistrales, se les entregara Diploma en formato digital.</p>";s:5:"mtime";i:1623303818;s:6:"markup";s:3571:"<h3>Criterios para las presentaciones en Google Meet</h3>
+<p align="justify"><strong>La Conferencia Magistral del Área de Conocimiento,</strong> serán de 25 minutos y 5 de preguntas, abordando aspectos relacionados con las necesidades de investigación científica y otros aspectos que permitan motivar a los asistentes a trabajar en el área de conocimiento a través de programas de investigación científica y la creación de redes de investigador. A los ponentes en las Conferencias Magistrales, se les entregara Diploma en formato digital.</p>";s:5:"mtime";i:1623773553;s:6:"markup";s:3571:"<h3>Criterios para las presentaciones en Google Meet</h3>
 
 <p align="justify">Cada exposición será de 10 minutos y 5 minutos de preguntas y respuestas. Para cumplir con los tiempos estipulados, la ponencia tendrá un máximo de doce (12) diapositivas elaboradas según formato que puede ser bajado en el siguiente enlace: <a class="btn btn-danger btn-xs" download="presentacion.pptx" href="storage/app/media/presentacion.pptx">Descargar Presentación</a>.</p>
 
@@ -63,7 +69,7 @@ tagline = "Sobre el IV Congreso de Investigación Científica"
 
 <p align="justify"><strong>Entrega de Diplomas en formato digital:</strong> a todos los ponentes que presenten sus investigaciones científicas, se les entregara un Diploma de participación.</p>
 
-<p align="justify"><strong>La Conferencia Magistral del Área de Conocimiento,</strong> serán de 25 minutos y 5 de preguntas, abordando aspectos relacionados con las necesidades de investigación científica y otros aspectos que permitan motivar a los asistentes a trabajar en el área de conocimiento a través de programas de investigación científica y la creación de redes de investigador. A los ponentes en las Conferencias Magistrales, se les entregara Diploma en formato digital.</p>";s:4:"code";s:1217:"{% put sidebarSection %}
+<p align="justify"><strong>La Conferencia Magistral del Área de Conocimiento,</strong> serán de 25 minutos y 5 de preguntas, abordando aspectos relacionados con las necesidades de investigación científica y otros aspectos que permitan motivar a los asistentes a trabajar en el área de conocimiento a través de programas de investigación científica y la creación de redes de investigador. A los ponentes en las Conferencias Magistrales, se les entregara Diploma en formato digital.</p>";s:4:"code";s:1526:"{% put sidebarSection %}
 <h3>Metodología</h3>
 
 <ol>
@@ -75,6 +81,12 @@ tagline = "Sobre el IV Congreso de Investigación Científica"
 	<li>Establecer alianzas con otras unidades y/o instituciones nacionales e internacionales.</li>
 	<li>El desarrollo del Congreso incluirá un concurso de fotografía.</li>
 </ol>
+
+<h3>Sobre el congreso</h3>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/sobre-el-congreso/registro">Ir a: &gt;&gt;Registro e inscripción</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/sobre-el-congreso/areas">Ir a: &gt;&gt;Áreas del Conocimiento</a></p>
 
 {% endput %}";s:7:"viewBag";a:6:{s:5:"title";s:17:"Sobre el congreso";s:3:"url";s:18:"/sobre-el-congreso";s:6:"layout";s:5:"chair";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";s:7:"tagline";s:50:"Sobre el IV Congreso de Investigación Científica";}s:12:"parsedMarkup";s:3571:"<h3>Criterios para las presentaciones en Google Meet</h3>
 

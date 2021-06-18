@@ -1,0 +1,33 @@
+1624045751a:1:{s:32:"sobre-el-congreso-participar.htm";a:7:{s:8:"fileName";s:32:"sobre-el-congreso-participar.htm";s:7:"content";s:439:"[viewBag]
+title = "participar"
+url = "/sobre-el-congreso/participar"
+layout = "participar"
+is_hidden = 0
+navigation_hidden = 0
+tagline = "Registrarse para participar"
+==
+{% put sidebarSection %}
+<h3>Coordinadores</h3>
+
+<p>José Miguel Sermeño Chicas</p>
+
+<p>Luis Sánchez</p>
+
+<p>Raúl Magarin</p>
+
+<p>Para mayor información: <a href="mailto:sic@ues.edu.sv">sic@ues.edu.sv</a></p>
+
+{% endput %}
+==
+<h3>Concurso Fotográfico</h3>";s:5:"mtime";i:1623796655;s:6:"markup";s:30:"<h3>Concurso Fotográfico</h3>";s:4:"code";s:235:"{% put sidebarSection %}
+<h3>Coordinadores</h3>
+
+<p>José Miguel Sermeño Chicas</p>
+
+<p>Luis Sánchez</p>
+
+<p>Raúl Magarin</p>
+
+<p>Para mayor información: <a href="mailto:sic@ues.edu.sv">sic@ues.edu.sv</a></p>
+
+{% endput %}";s:7:"viewBag";a:6:{s:5:"title";s:10:"participar";s:3:"url";s:29:"/sobre-el-congreso/participar";s:6:"layout";s:10:"participar";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";s:7:"tagline";s:27:"Registrarse para participar";}s:12:"parsedMarkup";s:30:"<h3>Concurso Fotográfico</h3>";}}

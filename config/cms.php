@@ -367,7 +367,7 @@ return [
     |
     */
 
-    'enableSafeMode' => null,
+    'enableSafeMode' => false,
 
     /*
     |--------------------------------------------------------------------------
@@ -379,7 +379,7 @@ return [
     |
     */
 
-    'enableCsrfProtection' => true,
+    'enableCsrfProtection' => false,
 
     /*
     |--------------------------------------------------------------------------

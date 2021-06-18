@@ -1,10 +1,19 @@
-1623451934a:1:{s:14:"about-team.htm";a:7:{s:8:"fileName";s:14:"about-team.htm";s:7:"content";s:962:"[viewBag]
+1624045751a:1:{s:14:"about-team.htm";a:7:{s:8:"fileName";s:14:"about-team.htm";s:7:"content";s:1285:"[viewBag]
 title = "Autoridades"
-url = "/autoridades"
-layout = "default"
+url = "/nosotros/autoridades"
+layout = "chair"
 is_hidden = 0
 navigation_hidden = 0
 tagline = "Autoridades Universitarias"
+==
+{% put sidebarSection %}
+<h3>Autoridades</h3>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/nosotros">Ir a: &gt;&gt;Nosotros</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/nosotros/comite">Ir a: &gt;&gt;Comité Científico</a></p>
+
+{% endput %}
 ==
 <h3>Autoridades Universitarias</h3>
 
@@ -24,7 +33,7 @@ tagline = "Autoridades Universitarias"
 	<li><strong>Ing. Agr. M.Sc. José Miguel Sermeño Chicas</strong>
 		<br>Secretario de Investigaciones Científicas;
 		<br>Director Ejectutivo del Consejo de Investigaciones Científicas</li>
-</ul>";s:5:"mtime";i:1623248764;s:6:"markup";s:812:"<h3>Autoridades Universitarias</h3>
+</ul>";s:5:"mtime";i:1623773142;s:6:"markup";s:812:"<h3>Autoridades Universitarias</h3>
 
 <ul>
 	<li><strong>M.Sc. Roger Armando Arias Alvarado</strong>
@@ -42,7 +51,14 @@ tagline = "Autoridades Universitarias"
 	<li><strong>Ing. Agr. M.Sc. José Miguel Sermeño Chicas</strong>
 		<br>Secretario de Investigaciones Científicas;
 		<br>Director Ejectutivo del Consejo de Investigaciones Científicas</li>
-</ul>";s:4:"code";N;s:7:"viewBag";a:6:{s:5:"title";s:11:"Autoridades";s:3:"url";s:12:"/autoridades";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";s:7:"tagline";s:26:"Autoridades Universitarias";}s:12:"parsedMarkup";s:812:"<h3>Autoridades Universitarias</h3>
+</ul>";s:4:"code";s:312:"{% put sidebarSection %}
+<h3>Autoridades</h3>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/nosotros">Ir a: &gt;&gt;Nosotros</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/nosotros/comite">Ir a: &gt;&gt;Comité Científico</a></p>
+
+{% endput %}";s:7:"viewBag";a:6:{s:5:"title";s:11:"Autoridades";s:3:"url";s:21:"/nosotros/autoridades";s:6:"layout";s:5:"chair";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";s:7:"tagline";s:26:"Autoridades Universitarias";}s:12:"parsedMarkup";s:812:"<h3>Autoridades Universitarias</h3>
 
 <ul>
 	<li><strong>M.Sc. Roger Armando Arias Alvarado</strong>

@@ -1,7 +1,7 @@
 <?php 
-use RainLab\Pages\Classes\Page;
-class Cms60c3d51a1c1b3308269020_3f3da7db91bc1691b0dcf9072f9adf8dClass extends Cms\Classes\LayoutCode
+use RainLab\Pages\Classes\Page;class Cms60ca7a5cb4674941190023_e0974ff4e0f623ceb62b6fb247684927Class extends Cms\Classes\LayoutCode
 {
+
 public function onStart()
 {
     $page = Page::find('chairs');

@@ -1,4 +1,4 @@
-1623451934a:1:{s:16:"contact/form.htm";a:7:{s:8:"fileName";s:16:"contact/form.htm";s:7:"content";s:2540:"description = "Formulario de contacto"
+1624046047a:1:{s:16:"contact/form.htm";a:7:{s:8:"fileName";s:16:"contact/form.htm";s:7:"content";s:2540:"description = "Formulario de contacto"
 
 [viewBag]
 ==
@@ -64,7 +64,7 @@
 
         <div class="form-group">
             <label class="control-label">
-                Message <span class="required">*</span>
+                Mensaje <span class="required">*</span>
             </label>
             <textarea rows="7" cols="10" name="comments" class="form-control"></textarea>
         </div>
@@ -79,7 +79,7 @@
 
     {{ form_close() }}
 
-{% endif %}";s:5:"mtime";i:1623447887;s:6:"markup";s:2487:"{% if success %}
+{% endif %}";s:5:"mtime";i:1623693543;s:6:"markup";s:2487:"{% if success %}
 
     <div class="jumbotron contact-sent">
         {% content 'contact/success' %}
@@ -141,7 +141,7 @@
 
         <div class="form-group">
             <label class="control-label">
-                Message <span class="required">*</span>
+                Mensaje <span class="required">*</span>
             </label>
             <textarea rows="7" cols="10" name="comments" class="form-control"></textarea>
         </div>

@@ -8,6 +8,8 @@ redirect = "home"
 code = "main-menu"
 
 [staticPage]
+useContent = 1
+default = 0
 ==
 <!DOCTYPE html>
 <html>
@@ -47,9 +49,10 @@ code = "main-menu"
                     <div class="row">
                         <div class="col-md-8">
                             {% page %}
+                            
                         </div>
-                        <div class="col-md-4">
-                            {% placeholder sidebarSection title="Sidebar" %}
+                        <div class="col-md-4" style="word-wrap: break-word;">
+                            {% placeholder sidebarSection title="Barra lateral" %}
                         </div>
                     </div>
                 </div>
@@ -61,6 +64,11 @@ code = "main-menu"
             <div class="container">
                 <div class="service-strip"></div>
             </div>
+        </div>
+ 
+        <!-- Logos congreso -->
+        <div class="container">
+             {% partial 'logos' %}
         </div>
 
         <!-- Footer -->

@@ -138,24 +138,34 @@ class __TwigTemplate_0e04b3e34add1d78db1b149e154fc8141da65766eb8db7b7ce206af683e
                 <div class=\"service-strip\"></div>
             </div>
         </div>
+        
+        <!-- Logos congreso -->
+        <div class=\"container\">
+             ";
+        // line 65
+        $context['__cms_partial_params'] = [];
+        echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("logos"        , $context['__cms_partial_params']        , true        );
+        unset($context['__cms_partial_params']);
+        // line 66
+        echo "        </div>
 
         <!-- Footer -->
         <footer id=\"layout-footer\">
             ";
-        // line 65
+        // line 70
         $context['__cms_partial_params'] = [];
         echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("footer"        , $context['__cms_partial_params']        , true        );
         unset($context['__cms_partial_params']);
-        // line 66
+        // line 71
         echo "        </footer>
 
         <!-- Scripts -->
         ";
-        // line 69
+        // line 74
         $context['__cms_partial_params'] = [];
         echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("scripts"        , $context['__cms_partial_params']        , true        );
         unset($context['__cms_partial_params']);
-        // line 70
+        // line 75
         echo "
     </body>
 </html>";
@@ -173,7 +183,7 @@ class __TwigTemplate_0e04b3e34add1d78db1b149e154fc8141da65766eb8db7b7ce206af683e
 
     public function getDebugInfo()
     {
-        return array (  159 => 70,  155 => 69,  150 => 66,  146 => 65,  131 => 52,  128 => 51,  125 => 50,  120 => 47,  118 => 46,  113 => 43,  108 => 42,  103 => 39,  101 => 38,  97 => 36,  95 => 35,  91 => 33,  87 => 32,  77 => 24,  73 => 23,  68 => 20,  64 => 19,  48 => 5,  44 => 4,  39 => 1,);
+        return array (  169 => 75,  165 => 74,  160 => 71,  156 => 70,  150 => 66,  146 => 65,  131 => 52,  128 => 51,  125 => 50,  120 => 47,  118 => 46,  113 => 43,  108 => 42,  103 => 39,  101 => 38,  97 => 36,  95 => 35,  91 => 33,  87 => 32,  77 => 24,  73 => 23,  68 => 20,  64 => 19,  48 => 5,  44 => 4,  39 => 1,);
     }
 
     public function getSourceContext()

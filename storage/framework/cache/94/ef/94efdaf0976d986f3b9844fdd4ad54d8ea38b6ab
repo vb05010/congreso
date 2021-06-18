@@ -1,15 +1,14 @@
-1623451934a:1:{s:7:"404.htm";a:11:{s:8:"fileName";s:7:"404.htm";s:7:"content";s:326:"title = "Page not found (404)"
+1624045751a:1:{s:7:"404.htm";a:11:{s:8:"fileName";s:7:"404.htm";s:7:"content";s:343:"title = "Page not found (404)"
 url = "/404"
 layout = "default"
 description = "Displayed when a page cannot be found"
-hidden = "0"
 meta_title = "You might want to sit down for this"
+is_hidden = 0
 ==
-
 <div class="jumbotron text-center">
-    <h2>Page not found...</h2>
-    <p>We're sorry, but the page you requested cannot be found.</p>
-</div>";s:5:"mtime";i:1571846026;s:6:"markup";s:141:"<div class="jumbotron text-center">
-    <h2>Page not found...</h2>
-    <p>We're sorry, but the page you requested cannot be found.</p>
-</div>";s:4:"code";N;s:5:"title";s:20:"Page not found (404)";s:3:"url";s:4:"/404";s:6:"layout";s:7:"default";s:11:"description";s:37:"Displayed when a page cannot be found";s:6:"hidden";s:1:"0";s:10:"meta_title";s:35:"You might want to sit down for this";}}
+    <h2>Página no encontrada...</h2>
+    <p>Lo sentimos, pero la página que ha solicitado no se encuentra.</p>
+</div>";s:5:"mtime";i:1623910628;s:6:"markup";s:158:"<div class="jumbotron text-center">
+    <h2>Página no encontrada...</h2>
+    <p>Lo sentimos, pero la página que ha solicitado no se encuentra.</p>
+</div>";s:4:"code";N;s:5:"title";s:20:"Page not found (404)";s:3:"url";s:4:"/404";s:6:"layout";s:7:"default";s:11:"description";s:37:"Displayed when a page cannot be found";s:10:"meta_title";s:35:"You might want to sit down for this";s:9:"is_hidden";s:1:"0";}}

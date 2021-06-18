@@ -9,7 +9,9 @@ static-pages:
         chairs-rocking-chairs: {  }
         chairs-wheelchairs: {  }
         chairs-deck-chairs: {  }
+        sobre-el-congreso-participar: {  }
     clients:
         clients-announcements: {  }
         clients-newsletters: {  }
         clients-gallery: {  }
+    sobre-el-congreso-participar: {  }

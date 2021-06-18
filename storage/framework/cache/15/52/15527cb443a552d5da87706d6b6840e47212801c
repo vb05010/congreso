@@ -1,4 +1,4 @@
-1623452479a:1:{s:10:"header.htm";a:6:{s:8:"fileName";s:10:"header.htm";s:7:"content";s:595:"[viewBag]
+1624045751a:1:{s:10:"header.htm";a:6:{s:8:"fileName";s:10:"header.htm";s:7:"content";s:616:"[viewBag]
 ==
 <div class="container">
     <div class="row">
@@ -12,11 +12,11 @@
         <div class="col-sm-6">
             <div class="contact-phone"> <!--contact-phone-->
                 <label>Escríbenos</label>
-                <span>sic@ues.edu.sv</span>
+                <span class="phone-number">sic@ues.edu.sv</span>
             </div>
         </div>
     </div>
-</div>";s:5:"mtime";i:1623451875;s:6:"markup";s:582:"<div class="container">
+</div>";s:5:"mtime";i:1623453375;s:6:"markup";s:603:"<div class="container">
     <div class="row">
         <div class="col-sm-6">
             <div class="logo">
@@ -28,7 +28,7 @@
         <div class="col-sm-6">
             <div class="contact-phone"> <!--contact-phone-->
                 <label>Escríbenos</label>
-                <span>sic@ues.edu.sv</span>
+                <span class="phone-number">sic@ues.edu.sv</span>
             </div>
         </div>
     </div>

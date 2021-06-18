@@ -1,4 +1,4 @@
-1623451934a:1:{s:22:"chairs-deck-chairs.htm";a:7:{s:8:"fileName";s:22:"chairs-deck-chairs.htm";s:7:"content";s:9187:"[viewBag]
+1624045751a:1:{s:22:"chairs-deck-chairs.htm";a:7:{s:8:"fileName";s:22:"chairs-deck-chairs.htm";s:7:"content";s:9654:"[viewBag]
 title = "Concurso Fotográfico"
 url = "/sobre-el-congreso/concurso"
 layout = "chair"
@@ -7,6 +7,18 @@ navigation_hidden = 0
 tagline = "Concurso Fotográfico"
 ==
 {% put sidebarSection %}
+<h3>Sobre el Congreso</h3>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/registro">Ir a: &gt;&gt;Registro e Inscripción</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/areas">Ir a: &gt;&gt;Áreas de Conocimiento</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/organizacion">Ir a: &gt;&gt;Organización</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/programa">Ir a: &gt;&gt;Programa</a></p>
+
+<p><a aria-pressed="true" class="btn btn-danger" href="/congreso/sobre-el-congreso/participar">&lt;&lt; Registrarse para Participar &gt;&gt;</a></p>
+
 <h3>Bases del concurso</h3>
 
 <p align="justify">El concurso fotográfico es gratis y abierto a docentes y estudiantes mayores de 18 años que están cursando asignaturas o desarrollando trabajos de tesis inscritos en las diferentes Facultades de la Universidad de El Salvador.</p>
@@ -33,19 +45,6 @@ tagline = "Concurso Fotográfico"
 	<li>Notificación de los Resultados Finales vía Facebook de la SIC-UES: <strong>25 de octubre de 2021.&nbsp;</strong></li>
 	<li>Exposición de las obras, premiación e inauguración de colección permanente de fotografías en página Web de la SIC-UES: <strong>28 de octubre de 2021.&nbsp;</strong></li>
 </ul>
-
-<h3>Coordinadores</h3>
-
-<p>José Miguel Sermeño Chicas
-	<br><a href="mailto:jose.sermeno@ues.edu.sv">jose.sermeno@ues.edu.sv</a></p>
-
-<p>Luis Sánchez&nbsp;
-	<br><a href="mailto:luis.sanchez@ues.edu.sv">luis.sanchez@ues.edu.sv</a>&nbsp;</p>
-
-<p>Raúl Magarin&nbsp;
-	<br><a href="mailto:raul.magarin@ues.edu.sv">raul.magarin@ues.edu.sv</a></p>
-
-<p>Para mayor información: <a href="mailto:sic@ues.edu.sv">sic@ues.edu.sv</a></p>
 
 {% endput %}
 ==
@@ -85,7 +84,9 @@ tagline = "Concurso Fotográfico"
 	<li style="text-align: justify;">No se tomarán en cuenta aquellas fotografías que hayan sido manipuladas de manera digital con algún programa para ese fin, con la finalidad de crear imágenes elaboradas. Únicamente se permite la ecualización.</li>
 	<li style="text-align: justify;">Las fotografías que no cumplan con estos requisitos no serán juzgadas, y quedaran automáticamente fuera del concurso.</li>
 	<li style="text-align: justify;">La SIC-UES se reserva el derecho de resolver en forma inapelable cualquier situación no prevista en este documento. El simple hecho de participar en este concurso implica el conocimiento y aceptación de estas bases y de las modificaciones que pudiera realizar el comité organizador respecto de las mismas.</li>
-</ul>";s:5:"mtime";i:1623283034;s:6:"markup";s:6645:"<h3>Indicaciones Generales</h3>
+</ul>
+
+<p><a aria-pressed="true" class="btn btn-danger" href="/congreso/sobre-el-congreso/participar">&lt;&lt; Registrarse para Participar &gt;&gt;</a></p>";s:5:"mtime";i:1623793836;s:6:"markup";s:6797:"<h3>Indicaciones Generales</h3>
 
 <ul>
 	<li style="text-align: justify;">Las fotografías deben ser específicas de cualquiera de los temas y captadas en El Salvador.</li>
@@ -121,7 +122,21 @@ tagline = "Concurso Fotográfico"
 	<li style="text-align: justify;">No se tomarán en cuenta aquellas fotografías que hayan sido manipuladas de manera digital con algún programa para ese fin, con la finalidad de crear imágenes elaboradas. Únicamente se permite la ecualización.</li>
 	<li style="text-align: justify;">Las fotografías que no cumplan con estos requisitos no serán juzgadas, y quedaran automáticamente fuera del concurso.</li>
 	<li style="text-align: justify;">La SIC-UES se reserva el derecho de resolver en forma inapelable cualquier situación no prevista en este documento. El simple hecho de participar en este concurso implica el conocimiento y aceptación de estas bases y de las modificaciones que pudiera realizar el comité organizador respecto de las mismas.</li>
-</ul>";s:4:"code";s:2370:"{% put sidebarSection %}
+</ul>
+
+<p><a aria-pressed="true" class="btn btn-danger" href="/congreso/sobre-el-congreso/participar">&lt;&lt; Registrarse para Participar &gt;&gt;</a></p>";s:4:"code";s:2685:"{% put sidebarSection %}
+<h3>Sobre el Congreso</h3>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/registro">Ir a: &gt;&gt;Registro e Inscripción</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/areas">Ir a: &gt;&gt;Áreas de Conocimiento</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/organizacion">Ir a: &gt;&gt;Organización</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/programa">Ir a: &gt;&gt;Programa</a></p>
+
+<p><a aria-pressed="true" class="btn btn-danger" href="/congreso/sobre-el-congreso/participar">&lt;&lt; Registrarse para Participar &gt;&gt;</a></p>
+
 <h3>Bases del concurso</h3>
 
 <p align="justify">El concurso fotográfico es gratis y abierto a docentes y estudiantes mayores de 18 años que están cursando asignaturas o desarrollando trabajos de tesis inscritos en las diferentes Facultades de la Universidad de El Salvador.</p>
@@ -149,20 +164,7 @@ tagline = "Concurso Fotográfico"
 	<li>Exposición de las obras, premiación e inauguración de colección permanente de fotografías en página Web de la SIC-UES: <strong>28 de octubre de 2021.&nbsp;</strong></li>
 </ul>
 
-<h3>Coordinadores</h3>
-
-<p>José Miguel Sermeño Chicas
-	<br><a href="mailto:jose.sermeno@ues.edu.sv">jose.sermeno@ues.edu.sv</a></p>
-
-<p>Luis Sánchez&nbsp;
-	<br><a href="mailto:luis.sanchez@ues.edu.sv">luis.sanchez@ues.edu.sv</a>&nbsp;</p>
-
-<p>Raúl Magarin&nbsp;
-	<br><a href="mailto:raul.magarin@ues.edu.sv">raul.magarin@ues.edu.sv</a></p>
-
-<p>Para mayor información: <a href="mailto:sic@ues.edu.sv">sic@ues.edu.sv</a></p>
-
-{% endput %}";s:7:"viewBag";a:6:{s:5:"title";s:21:"Concurso Fotográfico";s:3:"url";s:27:"/sobre-el-congreso/concurso";s:6:"layout";s:5:"chair";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";s:7:"tagline";s:21:"Concurso Fotográfico";}s:12:"parsedMarkup";s:6645:"<h3>Indicaciones Generales</h3>
+{% endput %}";s:7:"viewBag";a:6:{s:5:"title";s:21:"Concurso Fotográfico";s:3:"url";s:27:"/sobre-el-congreso/concurso";s:6:"layout";s:5:"chair";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";s:7:"tagline";s:21:"Concurso Fotográfico";}s:12:"parsedMarkup";s:6797:"<h3>Indicaciones Generales</h3>
 
 <ul>
 	<li style="text-align: justify;">Las fotografías deben ser específicas de cualquiera de los temas y captadas en El Salvador.</li>
@@ -198,4 +200,6 @@ tagline = "Concurso Fotográfico"
 	<li style="text-align: justify;">No se tomarán en cuenta aquellas fotografías que hayan sido manipuladas de manera digital con algún programa para ese fin, con la finalidad de crear imágenes elaboradas. Únicamente se permite la ecualización.</li>
 	<li style="text-align: justify;">Las fotografías que no cumplan con estos requisitos no serán juzgadas, y quedaran automáticamente fuera del concurso.</li>
 	<li style="text-align: justify;">La SIC-UES se reserva el derecho de resolver en forma inapelable cualquier situación no prevista en este documento. El simple hecho de participar en este concurso implica el conocimiento y aceptación de estas bases y de las modificaciones que pudiera realizar el comité organizador respecto de las mismas.</li>
-</ul>";}}
+</ul>
+
+<p><a aria-pressed="true" class="btn btn-danger" href="/congreso/sobre-el-congreso/participar">&lt;&lt; Registrarse para Participar &gt;&gt;</a></p>";}}

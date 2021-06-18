@@ -8,7 +8,7 @@ body {background:url('../themes/rainlab-relax/assets/images/body-bg.png') 0 0 re
 #top-nav {background:#a00;height:35px}
 #layout-header {background:url('../themes/rainlab-relax/assets/images/header-bg.png') 50% 0 no-repeat;min-height:100px;padding-bottom:175px}
 #layout-header .logo {position:relative;top:10px}
-#layout-header .contact-phone {background:url('../themes/rainlab-relax/assets/images/header-phone.png') 0 50% no-repeat;float:right;margin:15px 0 18px 0;padding-top:7px;padding-left:65px;color:#FFF;font-size:18px;font-weight:bold;text-transform:uppercase;text-shadow:#000 1px 1px 1px}
+#layout-header .contact-phone {background:url('../themes/rainlab-relax/assets/images/header-phone.png') 0 50% no-repeat;float:right;margin:15px 0 18px 0;padding-top:7px;padding-left:65px;color:#a00;font-size:18px;font-weight:bold;text-transform:lowercase;text-shadow:#a00 1px 1px 1px}
 #layout-header .contact-phone .phone-number {display:block;position:relative;top:-10px}
 #layout-nav {margin-top:-20px}
 #layout-nav >.container {padding-right:0}
@@ -128,7 +128,7 @@ a.nivo-prevNav {left:15px}
 .nivo-caption a {color:#efe9d1;text-decoration:underline}
 div.row.module-homes {padding-left:10px;padding-right:10px}
 div.row.module-homes >div {padding-top:15px;padding-left:5px;padding-right:5px}
-.module-home {background:url('../themes/rainlab-relax/assets/images/module-bg.png') #c7c7c7 0 0 repeat-x;padding:15px;min-height:260px}
+.module-home {background:url('../themes/rainlab-relax/assets/images/module-bg.png') #fff 0 0 repeat-x;padding:15px;min-height:260px}
 .module-home h1,
 .module-home h2,
 .module-home h3,

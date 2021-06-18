@@ -1,13 +1,21 @@
-1623451934a:1:{s:11:"scripts.htm";a:5:{s:8:"fileName";s:11:"scripts.htm";s:7:"content";s:190:"<script src="{{ [
+1624045751a:1:{s:11:"scripts.htm";a:6:{s:8:"fileName";s:11:"scripts.htm";s:7:"content";s:256:"[viewBag]
+==
+<script src="{{ [
     'assets/javascript/jquery.js',
     'assets/vendor/nivo/jquery.nivo.slider.js',
-    'assets/javascript/app.js'
+    'assets/javascript/app.js',
+    '@framework',
+    '@framework.extras'
 ]|theme }}"></script>
+
 {% framework extras %}
-{% scripts %}";s:5:"mtime";i:1571846026;s:6:"markup";s:190:"<script src="{{ [
+{% scripts %}";s:5:"mtime";i:1623887810;s:6:"markup";s:243:"<script src="{{ [
     'assets/javascript/jquery.js',
     'assets/vendor/nivo/jquery.nivo.slider.js',
-    'assets/javascript/app.js'
+    'assets/javascript/app.js',
+    '@framework',
+    '@framework.extras'
 ]|theme }}"></script>
+
 {% framework extras %}
-{% scripts %}";s:4:"code";N;}}
+{% scripts %}";s:4:"code";N;s:7:"viewBag";a:0:{}}}

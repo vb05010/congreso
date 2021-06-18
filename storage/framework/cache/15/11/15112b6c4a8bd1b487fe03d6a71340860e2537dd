@@ -1,4 +1,4 @@
-1623451934a:1:{s:25:"chairs-rocking-chairs.htm";a:7:{s:8:"fileName";s:25:"chairs-rocking-chairs.htm";s:7:"content";s:1570:"[viewBag]
+1624045751a:1:{s:25:"chairs-rocking-chairs.htm";a:7:{s:8:"fileName";s:25:"chairs-rocking-chairs.htm";s:7:"content";s:2179:"[viewBag]
 title = "Organización"
 url = "/sobre-el-congreso/organizacion"
 layout = "chair"
@@ -7,6 +7,16 @@ navigation_hidden = 0
 tagline = "Organización"
 ==
 {% put sidebarSection %}
+<h3>Sobre el Congreso</h3>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/registro">Ir a: &gt;&gt;Registro e Inscripción</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/areas">Ir a: &gt;&gt;Áreas de Conocimiento</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/programa">Ir a: &gt;&gt;Programa</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/concurso">Ir a: &gt;&gt;Concurso Fotográfico</a></p>
+
 <h3>LUGAR</h3>
 
 <p><strong>Inauguración:</strong> Auditórium planta baja de edificio CENSALUD</p>
@@ -25,7 +35,7 @@ tagline = "Organización"
 	<li>Las investigaciones aceptadas para ponencia oral en Google Meet, deberán preparar una presentación de un máximo de 10 minutos, para dejar un espacio máximo de 5 minutos, para preguntas y respuestas.</li>
 	<li>Todo esto acompañado de un video pregrabado de un máximo de 10 minutos que contenga el desarrollo y resultados de su investigación científica. El investigador deberá estar presente en el congreso para contestar las preguntas de los asistentes.</li>
 	<li>El moderador/a tendrá también la responsabilidad de que los tiempos se cumplan para garantizar el desarrollo del programa.</li>
-</ul>";s:5:"mtime";i:1623283000;s:6:"markup";s:1185:"<h3>ORGANIZACIÓN DEL EVENTO</h3>
+</ul>";s:5:"mtime";i:1623774558;s:6:"markup";s:1185:"<h3>ORGANIZACIÓN DEL EVENTO</h3>
 
 <p><strong>CONVOCATORIA:</strong> 15 de junio de 2021 al 30 de julio de 2021</p>
 
@@ -35,7 +45,17 @@ tagline = "Organización"
 	<li>Las investigaciones aceptadas para ponencia oral en Google Meet, deberán preparar una presentación de un máximo de 10 minutos, para dejar un espacio máximo de 5 minutos, para preguntas y respuestas.</li>
 	<li>Todo esto acompañado de un video pregrabado de un máximo de 10 minutos que contenga el desarrollo y resultados de su investigación científica. El investigador deberá estar presente en el congreso para contestar las preguntas de los asistentes.</li>
 	<li>El moderador/a tendrá también la responsabilidad de que los tiempos se cumplan para garantizar el desarrollo del programa.</li>
-</ul>";s:4:"code";s:225:"{% put sidebarSection %}
+</ul>";s:4:"code";s:834:"{% put sidebarSection %}
+<h3>Sobre el Congreso</h3>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/registro">Ir a: &gt;&gt;Registro e Inscripción</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/areas">Ir a: &gt;&gt;Áreas de Conocimiento</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/programa">Ir a: &gt;&gt;Programa</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/concurso">Ir a: &gt;&gt;Concurso Fotográfico</a></p>
+
 <h3>LUGAR</h3>
 
 <p><strong>Inauguración:</strong> Auditórium planta baja de edificio CENSALUD</p>

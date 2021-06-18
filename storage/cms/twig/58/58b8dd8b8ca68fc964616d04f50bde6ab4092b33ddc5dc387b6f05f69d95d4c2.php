@@ -50,6 +50,12 @@ class __TwigTemplate_2259ae97625ba853b4ddfe0a6eaa2fab39829bb8754c1cd08ef36f7134f
 \t<li>El desarrollo del Congreso incluirá un concurso de fotografía.</li>
 </ol>
 
+<h3>Sobre el congreso</h3>
+
+<p><a aria-pressed=\"true\" class=\"btn btn-primary active\" href=\"/sobre-el-congreso/registro\">Ir a: &gt;&gt;Registro e inscripción</a></p>
+
+<p><a aria-pressed=\"true\" class=\"btn btn-primary active\" href=\"/sobre-el-congreso/areas\">Ir a: &gt;&gt;Áreas del Conocimiento</a></p>
+
 ";
         // line 1
         echo $this->env->getExtension('Cms\Twig\Extension')->endBlock(true        );
@@ -62,7 +68,7 @@ class __TwigTemplate_2259ae97625ba853b4ddfe0a6eaa2fab39829bb8754c1cd08ef36f7134f
 
     public function getDebugInfo()
     {
-        return array (  55 => 1,  41 => 2,  39 => 1,);
+        return array (  61 => 1,  41 => 2,  39 => 1,);
     }
 
     public function getSourceContext()

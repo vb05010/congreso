@@ -1,1 +1,0 @@
-1626039740a:1:{s:7:"columns";a:3:{s:2:"id";a:2:{s:5:"label";s:2:"ID";s:10:"searchable";b:1;}s:4:"name";a:1:{s:5:"label";s:4:"Name";}s:10:"created_at";a:1:{s:5:"label";s:35:"backend::lang.access_log.created_at";}}}

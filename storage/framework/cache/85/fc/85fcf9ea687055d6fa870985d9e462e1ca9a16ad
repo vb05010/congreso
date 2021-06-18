@@ -1,1 +1,0 @@
-1626039959a:5:{s:4:"name";s:33:"system::lang.event_log.menu_label";s:4:"form";s:46:"~/modules/system/models/requestlog/fields.yaml";s:10:"modelClass";s:24:"System\Models\RequestLog";s:15:"defaultRedirect";s:18:"system/requestlogs";s:7:"preview";a:1:{s:5:"title";s:38:"system::lang.request_log.preview_title";}}

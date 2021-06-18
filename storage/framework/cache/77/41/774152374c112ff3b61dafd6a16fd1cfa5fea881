@@ -1,4 +1,4 @@
-1623451934a:1:{s:17:"static-pages.yaml";a:5:{s:8:"fileName";s:17:"static-pages.yaml";s:7:"content";s:384:"static-pages:
+1624046047a:1:{s:17:"static-pages.yaml";a:5:{s:8:"fileName";s:17:"static-pages.yaml";s:7:"content";s:466:"static-pages:
     index: {  }
     about:
         about-team: {  }
@@ -9,8 +9,10 @@
         chairs-rocking-chairs: {  }
         chairs-wheelchairs: {  }
         chairs-deck-chairs: {  }
+        sobre-el-congreso-participar: {  }
     clients:
         clients-announcements: {  }
         clients-newsletters: {  }
         clients-gallery: {  }
-";s:5:"mtime";i:1623274895;s:6:"markup";N;s:4:"code";N;}}
+    sobre-el-congreso-participar: {  }
+";s:5:"mtime";i:1623794016;s:6:"markup";N;s:4:"code";N;}}

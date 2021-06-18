@@ -107,7 +107,7 @@ class __TwigTemplate_6fa1fc923c14aaf276a5dcc7fced10eccfd0f181f39d17dafaa88b582a8
 
         <div class=\"form-group\">
             <label class=\"control-label\">
-                Message <span class=\"required\">*</span>
+                Mensaje <span class=\"required\">*</span>
             </label>
             <textarea rows=\"7\" cols=\"10\" name=\"comments\" class=\"form-control\"></textarea>
         </div>

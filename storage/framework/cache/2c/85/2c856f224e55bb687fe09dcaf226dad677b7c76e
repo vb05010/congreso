@@ -1,4 +1,4 @@
-1623451934a:1:{s:9:"title.htm";a:5:{s:8:"fileName";s:9:"title.htm";s:7:"content";s:684:"{% if not bannerImage %}
+1624045751a:1:{s:9:"title.htm";a:5:{s:8:"fileName";s:9:"title.htm";s:7:"content";s:684:"{% if not bannerImage %}
     {% set randomImage = ['highchair', 'sofa', 'cafe', 'in-field', 'wheelchair', 'chairs', 'lake', 'rocking-chairs'] %}
     {% set bannerImage = banner ? banner|media : ('assets/images/chairs/'~random(randomImage)~'.jpg')|theme %}
 {% endif %}

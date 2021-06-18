@@ -38,7 +38,19 @@ class __TwigTemplate_578985b7fa445054fbea0671915a30d143af964e86493ee614e9a09b0a1
         // line 1
         echo $this->env->getExtension('Cms\Twig\Extension')->startBlock('sidebarSection'        );
         // line 2
-        echo "<h3>Bases del concurso</h3>
+        echo "<h3>Sobre el Congreso</h3>
+
+<p><a aria-pressed=\"true\" class=\"btn btn-primary active\" href=\"/congreso/sobre-el-congreso/registro\">Ir a: &gt;&gt;Registro e Inscripción</a></p>
+
+<p><a aria-pressed=\"true\" class=\"btn btn-primary active\" href=\"/congreso/sobre-el-congreso/areas\">Ir a: &gt;&gt;Áreas de Conocimiento</a></p>
+
+<p><a aria-pressed=\"true\" class=\"btn btn-primary active\" href=\"/congreso/sobre-el-congreso/organizacion\">Ir a: &gt;&gt;Organización</a></p>
+
+<p><a aria-pressed=\"true\" class=\"btn btn-primary active\" href=\"/congreso/sobre-el-congreso/programa\">Ir a: &gt;&gt;Programa</a></p>
+
+<p><a aria-pressed=\"true\" class=\"btn btn-danger\" href=\"/congreso/sobre-el-congreso/participar\">&lt;&lt; Registrarse para Participar &gt;&gt;</a></p>
+
+<h3>Bases del concurso</h3>
 
 <p align=\"justify\">El concurso fotográfico es gratis y abierto a docentes y estudiantes mayores de 18 años que están cursando asignaturas o desarrollando trabajos de tesis inscritos en las diferentes Facultades de la Universidad de El Salvador.</p>
 
@@ -65,19 +77,6 @@ class __TwigTemplate_578985b7fa445054fbea0671915a30d143af964e86493ee614e9a09b0a1
 \t<li>Exposición de las obras, premiación e inauguración de colección permanente de fotografías en página Web de la SIC-UES: <strong>28 de octubre de 2021.&nbsp;</strong></li>
 </ul>
 
-<h3>Coordinadores</h3>
-
-<p>José Miguel Sermeño Chicas
-\t<br><a href=\"mailto:jose.sermeno@ues.edu.sv\">jose.sermeno@ues.edu.sv</a></p>
-
-<p>Luis Sánchez&nbsp;
-\t<br><a href=\"mailto:luis.sanchez@ues.edu.sv\">luis.sanchez@ues.edu.sv</a>&nbsp;</p>
-
-<p>Raúl Magarin&nbsp;
-\t<br><a href=\"mailto:raul.magarin@ues.edu.sv\">raul.magarin@ues.edu.sv</a></p>
-
-<p>Para mayor información: <a href=\"mailto:sic@ues.edu.sv\">sic@ues.edu.sv</a></p>
-
 ";
         // line 1
         echo $this->env->getExtension('Cms\Twig\Extension')->endBlock(true        );
@@ -90,7 +89,7 @@ class __TwigTemplate_578985b7fa445054fbea0671915a30d143af964e86493ee614e9a09b0a1
 
     public function getDebugInfo()
     {
-        return array (  83 => 1,  41 => 2,  39 => 1,);
+        return array (  82 => 1,  41 => 2,  39 => 1,);
     }
 
     public function getSourceContext()

@@ -1,13 +1,13 @@
 title = "Blog"
 url = "/blog"
 layout = "default"
-description = "The main blog page, with all posts."
-hidden = "0"
-meta_title = "The latest announcements from us"
+description = "La página principal del blog, con todas las entradas."
+meta_title = "Los últimos anuncios de nosotros"
+is_hidden = 0
 
 [blogPosts]
 pageNumber = "{{ :page }}"
-postsPerPage = "10"
+postsPerPage = 10
 noPostsMessage = "No posts found"
 sortOrder = "published_at desc"
 categoryPage = "blog/category"
@@ -15,10 +15,10 @@ postPage = "blog/post"
 
 [blogCategories]
 slug = "{{ :slug }}"
-displayEmpty = "0"
+displayEmpty = 0
 categoryPage = "blog/category"
 ==
-<?
+<?php
 function onStart()
 {
     $this['bannerImage'] = $this->themeUrl('assets/images/blog-banner.jpg');

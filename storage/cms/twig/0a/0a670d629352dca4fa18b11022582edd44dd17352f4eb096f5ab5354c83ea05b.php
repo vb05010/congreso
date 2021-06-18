@@ -37,11 +37,12 @@ class __TwigTemplate_a41d6e157fe255a9b653f9df8434f02822467019b01a024aeb925020ea4
         $macros = $this->macros;
         // line 1
         echo "<script src=\"";
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter([0 => "assets/javascript/jquery.js", 1 => "assets/vendor/nivo/jquery.nivo.slider.js", 2 => "assets/javascript/app.js"]);
-        // line 5
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter([0 => "assets/javascript/jquery.js", 1 => "assets/vendor/nivo/jquery.nivo.slider.js", 2 => "assets/javascript/app.js", 3 => "@framework", 4 => "@framework.extras"]);
+        // line 7
         echo "\"></script>
+
 ";
-        // line 6
+        // line 9
         $_minify = System\Classes\CombineAssets::instance()->useMinify;
         if ($_minify) {
             echo '<script src="' . Request::getBasePath() . '/modules/system/assets/js/framework.combined-min.js"></script>'.PHP_EOL;
@@ -52,7 +53,7 @@ class __TwigTemplate_a41d6e157fe255a9b653f9df8434f02822467019b01a024aeb925020ea4
         }
         echo '<link rel="stylesheet" property="stylesheet" href="' . Request::getBasePath() .'/modules/system/assets/css/framework.extras'.($_minify ? '-min' : '').'.css">'.PHP_EOL;
         unset($_minify);
-        // line 7
+        // line 10
         echo $this->env->getExtension('Cms\Twig\Extension')->assetsFunction('js');
         echo $this->env->getExtension('Cms\Twig\Extension')->displayBlock('scripts');
     }
@@ -69,7 +70,7 @@ class __TwigTemplate_a41d6e157fe255a9b653f9df8434f02822467019b01a024aeb925020ea4
 
     public function getDebugInfo()
     {
-        return array (  56 => 7,  45 => 6,  42 => 5,  39 => 1,);
+        return array (  57 => 10,  46 => 9,  42 => 7,  39 => 1,);
     }
 
     public function getSourceContext()
@@ -79,8 +80,8 @@ class __TwigTemplate_a41d6e157fe255a9b653f9df8434f02822467019b01a024aeb925020ea4
     
     public function checkSecurity()
     {
-        static $tags = array("framework" => 6, "scripts" => 7);
-        static $filters = array("theme" => 5);
+        static $tags = array("framework" => 9, "scripts" => 10);
+        static $filters = array("theme" => 7);
         static $functions = array();
 
         try {

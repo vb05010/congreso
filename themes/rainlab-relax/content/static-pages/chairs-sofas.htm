@@ -1,17 +1,22 @@
 [viewBag]
 title = "Registro e inscripción"
 url = "/sobre-el-congreso/registro"
-layout = "chair"
+layout = "form"
 is_hidden = 0
 navigation_hidden = 0
 tagline = "Registro e inscripción"
-
-[account]
-redirect = "account"
-paramCode = "code"
-forceSecure = 0
-requirePassword = 1
-
-[session]
-security = "all"
 ==
+{% put sidebarSection %}
+<h3>Sobre el Congreso</h3>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/areas">Ir a: &gt;&gt;Áreas de Conocimiento</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/organizacion">Ir a: &gt;&gt;Organización</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/programa">Ir a: &gt;&gt;Programa</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/concurso">Ir a: &gt;&gt;Concurso Fotográfico</a></p>
+
+{% endput %}
+==
+<h3>Registro e inscripción</h3>

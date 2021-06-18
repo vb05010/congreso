@@ -54,7 +54,7 @@ class __TwigTemplate_28137b75b26bc3ba3fcb4260b46b0a6938b947cc38c4c68d19451320049
         <div class=\"col-sm-6\">
             <div class=\"contact-phone\"> <!--contact-phone-->
                 <label>Escríbenos</label>
-                <span>sic@ues.edu.sv</span>
+                <span class=\"phone-number\">sic@ues.edu.sv</span>
             </div>
         </div>
     </div>

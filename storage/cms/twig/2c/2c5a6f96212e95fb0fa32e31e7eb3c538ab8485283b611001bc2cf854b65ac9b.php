@@ -35,6 +35,22 @@ class __TwigTemplate_61045f39ec4abbc8fc24fd52c4a9e27ff3a6d7d0dd435290eda02e80123
     protected function doDisplay(array $context, array $blocks = [])
     {
         $macros = $this->macros;
+        // line 1
+        echo $this->env->getExtension('Cms\Twig\Extension')->startBlock('sidebarSection'        );
+        // line 2
+        echo "<h3>Sobre el Congreso</h3>
+
+<p><a aria-pressed=\"true\" class=\"btn btn-primary active\" href=\"/congreso/sobre-el-congreso/areas\">Ir a: &gt;&gt;Áreas de Conocimiento</a></p>
+
+<p><a aria-pressed=\"true\" class=\"btn btn-primary active\" href=\"/congreso/sobre-el-congreso/organizacion\">Ir a: &gt;&gt;Organización</a></p>
+
+<p><a aria-pressed=\"true\" class=\"btn btn-primary active\" href=\"/congreso/sobre-el-congreso/programa\">Ir a: &gt;&gt;Programa</a></p>
+
+<p><a aria-pressed=\"true\" class=\"btn btn-primary active\" href=\"/congreso/sobre-el-congreso/concurso\">Ir a: &gt;&gt;Concurso Fotográfico</a></p>
+
+";
+        // line 1
+        echo $this->env->getExtension('Cms\Twig\Extension')->endBlock(true        );
     }
 
     public function getTemplateName()
@@ -44,7 +60,7 @@ class __TwigTemplate_61045f39ec4abbc8fc24fd52c4a9e27ff3a6d7d0dd435290eda02e80123
 
     public function getDebugInfo()
     {
-        return array ();
+        return array (  53 => 1,  41 => 2,  39 => 1,);
     }
 
     public function getSourceContext()
@@ -54,13 +70,13 @@ class __TwigTemplate_61045f39ec4abbc8fc24fd52c4a9e27ff3a6d7d0dd435290eda02e80123
     
     public function checkSecurity()
     {
-        static $tags = array();
+        static $tags = array("put" => 1);
         static $filters = array();
         static $functions = array();
 
         try {
             $this->sandbox->checkSecurity(
-                [],
+                ['put'],
                 [],
                 []
             );

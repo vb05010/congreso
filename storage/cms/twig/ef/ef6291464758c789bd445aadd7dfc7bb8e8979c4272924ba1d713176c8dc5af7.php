@@ -35,6 +35,34 @@ class __TwigTemplate_c1a9be0c3c87b4c67179b98cea784f15ecc2ea2c2dda8b917bc5f56d6e8
     protected function doDisplay(array $context, array $blocks = [])
     {
         $macros = $this->macros;
+        // line 1
+        echo $this->env->getExtension('Cms\Twig\Extension')->startBlock('sidebarSection'        );
+        // line 2
+        echo "<h3>Sobre el Congreso</h3>
+
+<p><a aria-pressed=\"true\" class=\"btn btn-primary active\" href=\"/congreso/sobre-el-congreso/registro\">Ir a: &gt;&gt;Registro e Inscripción</a></p>
+
+<p><a aria-pressed=\"true\" class=\"btn btn-primary active\" href=\"/congreso/sobre-el-congreso/areas\">Ir a: &gt;&gt;Áreas de Conocimiento</a></p>
+
+<p><a aria-pressed=\"true\" class=\"btn btn-primary active\" href=\"/congreso/sobre-el-congreso/organizacion\">Ir a: &gt;&gt;Organización</a></p>
+
+<p><a aria-pressed=\"true\" class=\"btn btn-primary active\" href=\"/congreso/sobre-el-congreso/concurso\">Ir a: &gt;&gt;Concurso Fotográfico</a></p>
+
+<h3>Acto de Inauguración</h3>
+
+<p><strong>martes 26 de octubre de 2021</strong></p>
+
+<ul>
+\t<li>Apertura de Transmisión - Antesala</li>
+\t<li>Himno Nacional de El Salvador</li>
+\t<li>Palabras de Bienvenida</li>
+\t<li>Palabras Alusivas</li>
+\t<li>Palabras de Inauguración</li>
+</ul>
+
+";
+        // line 1
+        echo $this->env->getExtension('Cms\Twig\Extension')->endBlock(true        );
     }
 
     public function getTemplateName()
@@ -44,7 +72,7 @@ class __TwigTemplate_c1a9be0c3c87b4c67179b98cea784f15ecc2ea2c2dda8b917bc5f56d6e8
 
     public function getDebugInfo()
     {
-        return array ();
+        return array (  65 => 1,  41 => 2,  39 => 1,);
     }
 
     public function getSourceContext()
@@ -54,13 +82,13 @@ class __TwigTemplate_c1a9be0c3c87b4c67179b98cea784f15ecc2ea2c2dda8b917bc5f56d6e8
     
     public function checkSecurity()
     {
-        static $tags = array();
+        static $tags = array("put" => 1);
         static $filters = array();
         static $functions = array();
 
         try {
             $this->sandbox->checkSecurity(
-                [],
+                ['put'],
                 [],
                 []
             );

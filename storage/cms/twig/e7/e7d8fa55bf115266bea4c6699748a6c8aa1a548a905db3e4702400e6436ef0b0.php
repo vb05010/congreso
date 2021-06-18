@@ -35,6 +35,30 @@ class __TwigTemplate_16d1dc46afc06b1cc729a9fb15a3012e9c156d939f714e49139d2161143
     protected function doDisplay(array $context, array $blocks = [])
     {
         $macros = $this->macros;
+        // line 1
+        echo $this->env->getExtension('Cms\Twig\Extension')->startBlock('sidebarSection'        );
+        // line 2
+        echo "<h3>Nosotros</h3>
+
+<p><a aria-pressed=\"true\" class=\"btn btn-primary active\" href=\"/congreso/nosotros/autoridades\">Ir a: &gt;&gt;Autoridades</a></p>
+
+<p><a aria-pressed=\"true\" class=\"btn btn-primary active\" href=\"/congreso/nosotros/comite\">Ir a: &gt;&gt;Comité</a></p>
+
+<h3>Referencias</h3>
+
+<p style=\"text-align: justify;\">Asamblea Legislativa. (1999). <em>LEY ORGÁNICA DE LA UNIVERSIDAD DE EL SALVADOR</em>. https://www.asamblea.gob.sv/decretos/details/315</p>
+
+<p style=\"text-align: justify;\">HCÉRES. (2019). <em>DOCUMENTOS DE EVALUACIÓN Y ACREDITACIÓN: Informe Final de la Universidad de El Salvador</em>. https://www.hceres.fr/sites/default/files/media/downloads/E2020-EV-0990031F-DEI-ETAB200018820-RD.pdf</p>
+
+<p style=\"text-align: justify;\">MINED. (2019). <em>Resultados de la Información Estadística de Instituciones de Educación Superior 2018</em>. https://www.mined.gob.sv/descargas/estadistica-educacion-superior/category/1253-informacion-estadistica-de-educacion-superior.html</p>
+
+<p style=\"text-align: justify;\">Secretaría de Asuntos Académicos. (2021). <em>Estadístico de Estudiantes Inscritos por Facultad, Año 2021</em> [Estadístico]. Universidad de El Salvador. https://saa.ues.edu.sv/nosotros/estadistica/academica/completo</p>
+
+<p style=\"text-align: justify;\">Secretaría de Planificación. (2017). <em>Diagnóstico Institucional 2016 UES</em> (p. 276). Universidad de El Salvador. http://www.transparencia.ues.edu.sv/sites/default/files/PDF/Diagnostico%20Institucional%20CC.pdf</p>
+
+";
+        // line 1
+        echo $this->env->getExtension('Cms\Twig\Extension')->endBlock(true        );
     }
 
     public function getTemplateName()
@@ -44,7 +68,7 @@ class __TwigTemplate_16d1dc46afc06b1cc729a9fb15a3012e9c156d939f714e49139d2161143
 
     public function getDebugInfo()
     {
-        return array ();
+        return array (  61 => 1,  41 => 2,  39 => 1,);
     }
 
     public function getSourceContext()
@@ -54,13 +78,13 @@ class __TwigTemplate_16d1dc46afc06b1cc729a9fb15a3012e9c156d939f714e49139d2161143
     
     public function checkSecurity()
     {
-        static $tags = array();
+        static $tags = array("put" => 1);
         static $filters = array();
         static $functions = array();
 
         try {
             $this->sandbox->checkSecurity(
-                [],
+                ['put'],
                 [],
                 []
             );

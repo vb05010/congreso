@@ -1,0 +1,14 @@
+1624045751a:1:{s:8:"form.htm";a:9:{s:8:"fileName";s:8:"form.htm";s:7:"content";s:283:"title = "form"
+url = "/form"
+description = "Formulario de registro de investigación"
+is_hidden = 0
+==
+<div class="jumbotron text-center">
+    <h2>Hubo un error...</h2>
+    <p>Lo sentimos, pero algo ha ido mal y la página no se puede mostrar.</p>
+    {% partial "form" %}
+</div>";s:5:"mtime";i:1623912283;s:6:"markup";s:180:"<div class="jumbotron text-center">
+    <h2>Hubo un error...</h2>
+    <p>Lo sentimos, pero algo ha ido mal y la página no se puede mostrar.</p>
+    {% partial "form" %}
+</div>";s:4:"code";N;s:5:"title";s:4:"form";s:3:"url";s:5:"/form";s:11:"description";s:40:"Formulario de registro de investigación";s:9:"is_hidden";s:1:"0";}}

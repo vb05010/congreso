@@ -52,174 +52,186 @@ class __TwigTemplate_7e9c6987996881c9364832bb7ba596660511298dfcc66195fdcf53cee52
         <div id=\"top-nav\">
             <div class=\"container\">
                 <!-- Put anything here, social links? -->
-            </div>
+                ";
+        // line 12
+        $context['__cms_partial_params'] = [];
+        echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("social"        , $context['__cms_partial_params']        , true        );
+        unset($context['__cms_partial_params']);
+        // line 13
+        echo "            </div>
         </div>
 
         <!-- Header -->
         <header id=\"layout-header\">
             ";
-        // line 17
+        // line 18
         $context['__cms_partial_params'] = [];
         echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("header"        , $context['__cms_partial_params']        , true        );
         unset($context['__cms_partial_params']);
-        // line 18
+        // line 19
         echo "
-            <!-- Nav -->
+            <!--Nav-->
             <nav id=\"layout-nav\">
                 ";
-        // line 21
+        // line 22
         $context['__cms_partial_params'] = [];
         echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("nav"        , $context['__cms_partial_params']        , true        );
         unset($context['__cms_partial_params']);
-        // line 22
+        // line 23
         echo "            </nav>
         </header>
 
-        <!-- Content -->
+        <!--Content-->
         <section id=\"layout-content\">
             <div class=\"container\">
-
+            
                 <div class=\"visible-xs visible-sm slider-wrapper title-style\">
                     ";
-        // line 30
+        // line 31
         $context['__cms_partial_params'] = [];
         echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("title"        , $context['__cms_partial_params']        , true        );
         unset($context['__cms_partial_params']);
-        // line 31
+        // line 32
         echo "                </div>
-
+            
                 <div id=\"slider-wrapper\" class=\"slider-wrapper hidden-xs hidden-sm\">
                     <div id=\"slider\">
                         ";
-        // line 35
+        // line 36
         $context['_parent'] = $context;
         $context['_seq'] = twig_ensure_traversable(($context["chairsPages"] ?? null));
         foreach ($context['_seq'] as $context["_key"] => $context["chairPage"]) {
-            // line 36
-            echo "                            ";
             // line 37
             echo "                            ";
-            $context["randomImage"] = [0 => "highchair", 1 => "sofa", 2 => "cafe", 3 => "in-field", 4 => "wheelchair", 5 => "chairs", 6 => "lake", 7 => "rocking-chairs"];
             // line 38
             echo "                            ";
-            $context["bannerImage"] = ((twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, $context["chairPage"], "viewBag", [], "any", false, false, true, 38), "banner", [], "any", false, false, true, 38)) ? ($this->extensions['System\Twig\Extension']->mediaFilter($this->sandbox->ensureToStringAllowed(twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source,             // line 39
-$context["chairPage"], "viewBag", [], "any", false, false, true, 39), "banner", [], "any", false, false, true, 39), 39, $this->source))) : ($this->extensions['Cms\Twig\Extension']->themeFilter((("assets/images/chairs/" . twig_random($this->env, $this->sandbox->ensureToStringAllowed(            // line 40
-($context["randomImage"] ?? null), 40, $this->source))) . ".jpg"))));
-            // line 41
-            echo "
-                            <img src=\"";
+            $context["randomImage"] = [0 => "highchair", 1 => "sofa", 2 => "cafe", 3 => "in-field", 4 => "wheelchair", 5 => "chairs", 6 => "lake", 7 => "rocking-chairs"];
+            // line 39
+            echo "                            ";
+            $context["bannerImage"] = ((twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, $context["chairPage"], "viewBag", [], "any", false, false, true, 39), "banner", [], "any", false, false, true, 39)) ? ($this->extensions['System\Twig\Extension']->mediaFilter($this->sandbox->ensureToStringAllowed(twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source,             // line 40
+$context["chairPage"], "viewBag", [], "any", false, false, true, 40), "banner", [], "any", false, false, true, 40), 40, $this->source))) : ($this->extensions['Cms\Twig\Extension']->themeFilter((("assets/images/chairs/" . twig_random($this->env, $this->sandbox->ensureToStringAllowed(            // line 41
+($context["randomImage"] ?? null), 41, $this->source))) . ".jpg"))));
             // line 42
-            echo twig_escape_filter($this->env, $this->sandbox->ensureToStringAllowed(($context["bannerImage"] ?? null), 42, $this->source), "html", null, true);
+            echo "            
+                            <img src=\"";
+            // line 43
+            echo twig_escape_filter($this->env, $this->sandbox->ensureToStringAllowed(($context["bannerImage"] ?? null), 43, $this->source), "html", null, true);
             echo "\" alt=\"\" title=\"\" />
                         ";
         }
         $_parent = $context['_parent'];
         unset($context['_seq'], $context['_iterated'], $context['_key'], $context['chairPage'], $context['_parent'], $context['loop']);
         $context = array_intersect_key($context, $_parent) + $_parent;
-        // line 44
+        // line 45
         echo "                    </div>
                     <div id=\"slider-menu\" class=\"slider-menu\">
                         <ul>
                             ";
-        // line 47
+        // line 48
         $context['_parent'] = $context;
         $context['_seq'] = twig_ensure_traversable(($context["chairsPages"] ?? null));
         foreach ($context['_seq'] as $context["_key"] => $context["chairPage"]) {
-            // line 48
+            // line 49
             echo "                                <li><a href=\"";
-            echo $this->extensions['System\Twig\Extension']->appFilter($this->sandbox->ensureToStringAllowed(twig_get_attribute($this->env, $this->source, $context["chairPage"], "url", [], "any", false, false, true, 48), 48, $this->source));
+            echo $this->extensions['System\Twig\Extension']->appFilter($this->sandbox->ensureToStringAllowed(twig_get_attribute($this->env, $this->source, $context["chairPage"], "url", [], "any", false, false, true, 49), 49, $this->source));
             echo "\"><span>";
-            echo twig_escape_filter($this->env, $this->sandbox->ensureToStringAllowed(twig_get_attribute($this->env, $this->source, $context["chairPage"], "title", [], "any", false, false, true, 48), 48, $this->source), "html", null, true);
+            echo twig_escape_filter($this->env, $this->sandbox->ensureToStringAllowed(twig_get_attribute($this->env, $this->source, $context["chairPage"], "title", [], "any", false, false, true, 49), 49, $this->source), "html", null, true);
             echo "</span></a></li>
                             ";
         }
         $_parent = $context['_parent'];
         unset($context['_seq'], $context['_iterated'], $context['_key'], $context['chairPage'], $context['_parent'], $context['loop']);
         $context = array_intersect_key($context, $_parent) + $_parent;
-        // line 50
+        // line 51
         echo "                            <li class=\"desc\"><h2><span></span></h2></li>
                         </ul>
                     </div>
                     <div id=\"slider-text\" class=\"slider-text\">
                         ";
-        // line 54
+        // line 55
         $context['_parent'] = $context;
         $context['_seq'] = twig_ensure_traversable(($context["chairsPages"] ?? null));
         foreach ($context['_seq'] as $context["_key"] => $context["chairPage"]) {
-            // line 55
+            // line 56
             echo "                            <h2>";
-            echo twig_escape_filter($this->env, $this->sandbox->ensureToStringAllowed(twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, $context["chairPage"], "viewBag", [], "any", false, false, true, 55), "tagline", [], "any", false, false, true, 55), 55, $this->source), "html", null, true);
+            echo twig_escape_filter($this->env, $this->sandbox->ensureToStringAllowed(twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, $context["chairPage"], "viewBag", [], "any", false, false, true, 56), "tagline", [], "any", false, false, true, 56), 56, $this->source), "html", null, true);
             echo "</h2>
                         ";
         }
         $_parent = $context['_parent'];
         unset($context['_seq'], $context['_iterated'], $context['_key'], $context['chairPage'], $context['_parent'], $context['loop']);
         $context = array_intersect_key($context, $_parent) + $_parent;
-        // line 57
+        // line 58
         echo "                    </div>
                     <div class=\"slider-more-info\">
                         IV Congreso de Investigación Científica
                     </div>
                 </div>
-
+            
+            <!--sección pagina principal-->
                 <div class=\"row module-homes\">
-                    <div class=\"col-sm-6 col-md-4\">
+                    <div class=\".col-xs-12 col-md-8 .col-xs-6 \">
                         <div class=\"module-home\">
                             ";
-        // line 66
+        // line 68
         echo $this->env->getExtension('Cms\Twig\Extension')->pageFunction();
-        // line 67
+        // line 69
         echo "                        </div>
                     </div>
-
-                    <div class=\"col-sm-6 col-md-4\">
+             
+                
+                    <div class=\".col-md-4\">
                         <div class=\"module-home\">
                             ";
-        // line 72
+        // line 75
         $context['__placeholder_news_default_contents'] = null;        echo $this->env->getExtension('Cms\Twig\Extension')->displayBlock('news', $context['__placeholder_news_default_contents']);
-        unset($context['__placeholder_news_default_contents']);        // line 73
+        unset($context['__placeholder_news_default_contents']);        // line 76
         echo "                        </div>
                     </div>
-
-                    <div class=\"col-sm-6 col-md-4\">
-                        <div class=\"module-home\">
-                            ";
-        // line 78
-        $context['__placeholder_login_default_contents'] = null;        echo $this->env->getExtension('Cms\Twig\Extension')->displayBlock('login', $context['__placeholder_login_default_contents']);
-        unset($context['__placeholder_login_default_contents']);        // line 79
-        echo "                        </div>
-                    </div>
-
                 </div>
-
             </div>
-        </section>
-
+        </section> 
+        
+        
         <!-- Slogan -->
         <div id=\"layout-slogan\">
             <div class=\"container\">
                 <div class=\"service-strip\"></div>
             </div>
         </div>
+        
+        <!-- Logos congreso -->
+            <div class=\"container\">
+                 ";
+        // line 92
+        $context['__cms_partial_params'] = [];
+        echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("logos"        , $context['__cms_partial_params']        , true        );
+        unset($context['__cms_partial_params']);
+        // line 93
+        echo "            </div>
+
+
 
         <!-- Footer -->
         <footer id=\"layout-footer\">
             ";
-        // line 96
+        // line 99
         $context['__cms_partial_params'] = [];
         echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("footer"        , $context['__cms_partial_params']        , true        );
         unset($context['__cms_partial_params']);
-        // line 97
+        // line 100
         echo "        </footer>
 
         <!-- Scripts -->
         ";
-        // line 100
+        // line 103
         $context['__cms_partial_params'] = [];
         echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("scripts"        , $context['__cms_partial_params']        , true        );
         unset($context['__cms_partial_params']);
-        // line 101
-        echo "        <script src=\"";
+        // line 104
+        echo "        
+        <script src=\"";
+        // line 105
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/javascript/home.js");
         echo "\"></script>
 
@@ -239,7 +251,7 @@ $context["chairPage"], "viewBag", [], "any", false, false, true, 39), "banner", 
 
     public function getDebugInfo()
     {
-        return array (  222 => 101,  218 => 100,  213 => 97,  209 => 96,  190 => 79,  188 => 78,  181 => 73,  179 => 72,  172 => 67,  170 => 66,  159 => 57,  150 => 55,  146 => 54,  140 => 50,  129 => 48,  125 => 47,  120 => 44,  112 => 42,  109 => 41,  107 => 40,  106 => 39,  104 => 38,  101 => 37,  99 => 36,  95 => 35,  89 => 31,  85 => 30,  75 => 22,  71 => 21,  66 => 18,  62 => 17,  48 => 5,  44 => 4,  39 => 1,);
+        return array (  235 => 105,  232 => 104,  228 => 103,  223 => 100,  219 => 99,  211 => 93,  207 => 92,  189 => 76,  187 => 75,  179 => 69,  177 => 68,  165 => 58,  156 => 56,  152 => 55,  146 => 51,  135 => 49,  131 => 48,  126 => 45,  118 => 43,  115 => 42,  113 => 41,  112 => 40,  110 => 39,  107 => 38,  105 => 37,  101 => 36,  95 => 32,  91 => 31,  81 => 23,  77 => 22,  72 => 19,  68 => 18,  61 => 13,  57 => 12,  48 => 5,  44 => 4,  39 => 1,);
     }
 
     public function getSourceContext()
@@ -249,9 +261,9 @@ $context["chairPage"], "viewBag", [], "any", false, false, true, 39), "banner", 
     
     public function checkSecurity()
     {
-        static $tags = array("partial" => 4, "for" => 35, "set" => 37, "page" => 66, "placeholder" => 72);
-        static $filters = array("media" => 39, "theme" => 40, "escape" => 42, "app" => 48);
-        static $functions = array("random" => 40);
+        static $tags = array("partial" => 4, "for" => 36, "set" => 38, "page" => 68, "placeholder" => 75);
+        static $filters = array("media" => 40, "theme" => 41, "escape" => 43, "app" => 49);
+        static $functions = array("random" => 41);
 
         try {
             $this->sandbox->checkSecurity(

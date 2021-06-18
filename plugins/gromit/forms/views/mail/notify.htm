@@ -1,0 +1,16 @@
+subject = "For submitted"
+==
+De "{{ title }}" ha sido enviado.
+
+Día de entrega:  {{ date }}
+
+{% for k, v in data %}
+    {{ k }}: {{ v }}
+
+{% endfor %}
+
+{% if hasFiles %}
+    Hay archivos cargados 
+{% endif %}
+
+Para ver el envío [siga este enlace]({{ url }}).

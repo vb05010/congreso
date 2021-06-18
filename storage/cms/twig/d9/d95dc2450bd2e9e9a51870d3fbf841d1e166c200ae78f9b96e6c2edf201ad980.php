@@ -37,8 +37,8 @@ class __TwigTemplate_8ca012abcd957e84147cfbb6187facbc13d50ef093e781e9f9ff24465e1
         $macros = $this->macros;
         // line 1
         echo "<div class=\"jumbotron text-center\">
-    <h2>Page not found...</h2>
-    <p>We're sorry, but the page you requested cannot be found.</p>
+    <h2>Página no encontrada...</h2>
+    <p>Lo sentimos, pero la página que ha solicitado no se encuentra.</p>
 </div>";
     }
 

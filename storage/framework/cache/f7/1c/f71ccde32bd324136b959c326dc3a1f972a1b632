@@ -1,4 +1,4 @@
-1623451934a:1:{s:22:"chairs-high-chairs.htm";a:7:{s:8:"fileName";s:22:"chairs-high-chairs.htm";s:7:"content";s:3936:"[viewBag]
+1624045751a:1:{s:22:"chairs-high-chairs.htm";a:7:{s:8:"fileName";s:22:"chairs-high-chairs.htm";s:7:"content";s:4393:"[viewBag]
 title = "Áreas de Conocimiento"
 url = "/sobre-el-congreso/areas"
 layout = "chair"
@@ -7,11 +7,19 @@ navigation_hidden = 0
 tagline = "Áreas de Conocimiento"
 ==
 {% put sidebarSection %}
+<h3>Sobre el Congreso</h3>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/registro">Ir a: &gt;&gt;Registro e Inscripción</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/organizacion">Ir a: &gt;&gt;Organización</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/programa">Ir a: &gt;&gt;Programa</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/concurso">Ir a: &gt;&gt;Concurso Fotográfico</a></p>
+
 <h3>Conferencia Magistral</h3>
 
 <p align="justify">La Conferencia Magistral del Área de Conocimiento, serán de 25 minutos y 5 de preguntas, abordando aspectos relacionados con las necesidades de investigación científica y otros aspectos que permitan motivar a los asistentes a trabajar en el área de conocimiento a través de programas de investigación científica y la creación de redes de investigador. A los ponentes en las Conferencias Magistrales, se les entregara Diploma en formato digital.</p>
-
-<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/registro">Ir a: &gt;&gt;Registro e Inscripción</a></p>
 
 {% endput %}
 ==
@@ -118,7 +126,7 @@ tagline = "Áreas de Conocimiento"
 	</tbody>
 </table>
 
-<p>Fuente: Manual de <a href="https://www.oecd-ilibrary.org/docserver/9789264310681-es.pdf?expires=1620001675&amp;id=id&amp;accname=guest&amp;checksum=BAF7A9D08EDD4C80A318C27A8B0490D0" target="_blank">Frascati, 2015</a>. Ámbitos de clasificación de la I+D</p>";s:5:"mtime";i:1623305830;s:6:"markup";s:3065:"<h3>Área del Conocimiento</h3>
+<p>Fuente: Manual de <a href="https://www.oecd-ilibrary.org/docserver/9789264310681-es.pdf?expires=1620001675&amp;id=id&amp;accname=guest&amp;checksum=BAF7A9D08EDD4C80A318C27A8B0490D0" target="_blank">Frascati, 2015</a>. Ámbitos de clasificación de la I+D</p>";s:5:"mtime";i:1623774549;s:6:"markup";s:3065:"<h3>Área del Conocimiento</h3>
 
 <table class="table">
 	<thead>
@@ -221,12 +229,20 @@ tagline = "Áreas de Conocimiento"
 	</tbody>
 </table>
 
-<p>Fuente: Manual de <a href="https://www.oecd-ilibrary.org/docserver/9789264310681-es.pdf?expires=1620001675&amp;id=id&amp;accname=guest&amp;checksum=BAF7A9D08EDD4C80A318C27A8B0490D0" target="_blank">Frascati, 2015</a>. Ámbitos de clasificación de la I+D</p>";s:4:"code";s:700:"{% put sidebarSection %}
+<p>Fuente: Manual de <a href="https://www.oecd-ilibrary.org/docserver/9789264310681-es.pdf?expires=1620001675&amp;id=id&amp;accname=guest&amp;checksum=BAF7A9D08EDD4C80A318C27A8B0490D0" target="_blank">Frascati, 2015</a>. Ámbitos de clasificación de la I+D</p>";s:4:"code";s:1157:"{% put sidebarSection %}
+<h3>Sobre el Congreso</h3>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/registro">Ir a: &gt;&gt;Registro e Inscripción</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/organizacion">Ir a: &gt;&gt;Organización</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/programa">Ir a: &gt;&gt;Programa</a></p>
+
+<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/concurso">Ir a: &gt;&gt;Concurso Fotográfico</a></p>
+
 <h3>Conferencia Magistral</h3>
 
 <p align="justify">La Conferencia Magistral del Área de Conocimiento, serán de 25 minutos y 5 de preguntas, abordando aspectos relacionados con las necesidades de investigación científica y otros aspectos que permitan motivar a los asistentes a trabajar en el área de conocimiento a través de programas de investigación científica y la creación de redes de investigador. A los ponentes en las Conferencias Magistrales, se les entregara Diploma en formato digital.</p>
-
-<p><a aria-pressed="true" class="btn btn-primary active" href="/congreso/sobre-el-congreso/registro">Ir a: &gt;&gt;Registro e Inscripción</a></p>
 
 {% endput %}";s:7:"viewBag";a:6:{s:5:"title";s:22:"Áreas de Conocimiento";s:3:"url";s:24:"/sobre-el-congreso/areas";s:6:"layout";s:5:"chair";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";s:7:"tagline";s:22:"Áreas de Conocimiento";}s:12:"parsedMarkup";s:3065:"<h3>Área del Conocimiento</h3>
 

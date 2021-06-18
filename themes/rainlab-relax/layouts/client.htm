@@ -11,6 +11,8 @@ code = "main-menu"
 code = "client-menu"
 
 [staticPage]
+useContent = 1
+default = 0
 ==
 <!DOCTYPE html>
 <html>
@@ -69,6 +71,11 @@ code = "client-menu"
             <div class="container">
                 <div class="service-strip"></div>
             </div>
+        </div>
+        
+        <!-- Logos congreso -->
+        <div class="container">
+             {% partial 'logos' %}
         </div>
 
         <!-- Footer -->

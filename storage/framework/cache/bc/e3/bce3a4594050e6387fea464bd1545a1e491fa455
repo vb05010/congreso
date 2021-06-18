@@ -1,0 +1,29 @@
+1624046047a:1:{s:10:"myform.htm";a:7:{s:8:"fileName";s:10:"myform.htm";s:7:"content";s:328:"description = "css simple forms plugin"
+
+[viewBag]
+==
+.form {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}";s:5:"mtime";i:1624044717;s:6:"markup";s:274:".form {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}";s:4:"code";N;s:11:"description";s:23:"css simple forms plugin";s:7:"viewBag";a:0:{}}}

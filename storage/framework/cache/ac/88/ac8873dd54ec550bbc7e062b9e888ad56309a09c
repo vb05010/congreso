@@ -1,4 +1,4 @@
-1623449170a:1:{s:9:"chair.htm";a:9:{s:8:"fileName";s:9:"chair.htm";s:7:"content";s:1870:"description = "Chair layout"
+1624045386a:1:{s:9:"chair.htm";a:9:{s:8:"fileName";s:9:"chair.htm";s:7:"content";s:2148:"description = "Chair layout"
 
 [session]
 security = "all"
@@ -8,6 +8,8 @@ redirect = "home"
 code = "main-menu"
 
 [staticPage]
+useContent = 1
+default = 0
 ==
 <!DOCTYPE html>
 <html>
@@ -47,9 +49,10 @@ code = "main-menu"
                     <div class="row">
                         <div class="col-md-8">
                             {% page %}
+                            
                         </div>
-                        <div class="col-md-4">
-                            {% placeholder sidebarSection title="Sidebar" %}
+                        <div class="col-md-4" style="word-wrap: break-word;">
+                            {% placeholder sidebarSection title="Barra lateral" %}
                         </div>
                     </div>
                 </div>
@@ -62,6 +65,11 @@ code = "main-menu"
                 <div class="service-strip"></div>
             </div>
         </div>
+ 
+        <!-- Logos congreso -->
+        <div class="container">
+             {% partial 'logos' %}
+        </div>
 
         <!-- Footer -->
         <footer id="layout-footer">
@@ -72,7 +80,7 @@ code = "main-menu"
         {% partial 'scripts' %}
 
     </body>
-</html>";s:5:"mtime";i:1571846026;s:6:"markup";s:1736:"<!DOCTYPE html>
+</html>";s:5:"mtime";i:1623906627;s:6:"markup";s:1987:"<!DOCTYPE html>
 <html>
     <head>
         {% partial 'meta' %}
@@ -110,9 +118,10 @@ code = "main-menu"
                     <div class="row">
                         <div class="col-md-8">
                             {% page %}
+                            
                         </div>
-                        <div class="col-md-4">
-                            {% placeholder sidebarSection title="Sidebar" %}
+                        <div class="col-md-4" style="word-wrap: break-word;">
+                            {% placeholder sidebarSection title="Barra lateral" %}
                         </div>
                     </div>
                 </div>
@@ -125,6 +134,11 @@ code = "main-menu"
                 <div class="service-strip"></div>
             </div>
         </div>
+ 
+        <!-- Logos congreso -->
+        <div class="container">
+             {% partial 'logos' %}
+        </div>
 
         <!-- Footer -->
         <footer id="layout-footer">
@@ -135,4 +149,4 @@ code = "main-menu"
         {% partial 'scripts' %}
 
     </body>
-</html>";s:4:"code";N;s:11:"description";s:12:"Chair layout";s:7:"session";a:2:{s:8:"security";s:3:"all";s:8:"redirect";s:4:"home";}s:19:"staticMenu mainMenu";a:1:{s:4:"code";s:9:"main-menu";}s:10:"staticPage";a:0:{}}}
+</html>";s:4:"code";N;s:11:"description";s:12:"Chair layout";s:7:"session";a:2:{s:8:"security";s:3:"all";s:8:"redirect";s:4:"home";}s:19:"staticMenu mainMenu";a:1:{s:4:"code";s:9:"main-menu";}s:10:"staticPage";a:2:{s:10:"useContent";s:1:"1";s:7:"default";s:1:"0";}}}

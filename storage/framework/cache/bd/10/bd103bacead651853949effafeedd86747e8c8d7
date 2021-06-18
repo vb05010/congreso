@@ -1,14 +1,16 @@
-1623451934a:1:{s:8:"home.htm";a:10:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:3899:"description = "Default layout"
-
-[account]
-[session]
+1624045381a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:4149:"description = "Pagina de inicio"
 
 [staticMenu mainMenu]
 code = "main-menu"
 
 [staticPage]
+useContent = 1
+default = 0
+
+[session]
+security = "all"
 ==
-<?
+<?php
 use RainLab\Pages\Classes\Page;
 
 function onStart()
@@ -29,6 +31,7 @@ function onStart()
         <div id="top-nav">
             <div class="container">
                 <!-- Put anything here, social links? -->
+                {% partial 'social' %}
             </div>
         </div>
 
@@ -36,20 +39,20 @@ function onStart()
         <header id="layout-header">
             {% partial "header" %}
 
-            <!-- Nav -->
+            <!--Nav-->
             <nav id="layout-nav">
                 {% partial "nav" %}
             </nav>
         </header>
 
-        <!-- Content -->
+        <!--Content-->
         <section id="layout-content">
             <div class="container">
-
+            
                 <div class="visible-xs visible-sm slider-wrapper title-style">
                     {% partial "title" %}
                 </div>
-
+            
                 <div id="slider-wrapper" class="slider-wrapper hidden-xs hidden-sm">
                     <div id="slider">
                         {% for chairPage in chairsPages %}
@@ -58,7 +61,7 @@ function onStart()
                             {% set bannerImage = chairPage.viewBag.banner 
                                 ? chairPage.viewBag.banner|media
                                 : ('assets/images/chairs/'~random(randomImage)~'.jpg')|theme %}
-
+            
                             <img src="{{ bannerImage }}" alt="" title="" />
                         {% endfor %}
                     </div>
@@ -79,37 +82,39 @@ function onStart()
                         IV Congreso de Investigación Científica
                     </div>
                 </div>
-
+            
+            <!--sección pagina principal-->
                 <div class="row module-homes">
-                    <div class="col-sm-6 col-md-4">
+                    <div class=".col-xs-12 col-md-8 .col-xs-6 ">
                         <div class="module-home">
                             {% page %}
                         </div>
                     </div>
-
-                    <div class="col-sm-6 col-md-4">
+             
+                
+                    <div class=".col-md-4">
                         <div class="module-home">
-                            {% placeholder news title="Latest News" %}
+                            {% placeholder news title="Fechas importantes" %}
                         </div>
                     </div>
-
-                    <div class="col-sm-6 col-md-4">
-                        <div class="module-home">
-                            {% placeholder login title="Client Area" %}
-                        </div>
-                    </div>
-
                 </div>
-
             </div>
-        </section>
-
+        </section> 
+        
+        
         <!-- Slogan -->
         <div id="layout-slogan">
             <div class="container">
                 <div class="service-strip"></div>
             </div>
         </div>
+        
+        <!-- Logos congreso -->
+            <div class="container">
+                 {% partial 'logos' %}
+            </div>
+
+
 
         <!-- Footer -->
         <footer id="layout-footer">
@@ -118,11 +123,11 @@ function onStart()
 
         <!-- Scripts -->
         {% partial 'scripts' %}
+        
         <script src="{{ 'assets/javascript/home.js'|theme }}"></script>
 
     </body>
-</html>
-";s:5:"mtime";i:1623182701;s:6:"markup";s:3639:"<!DOCTYPE html>
+</html>";s:5:"mtime";i:1623882203;s:6:"markup";s:3845:"<!DOCTYPE html>
 <html>
     <head>
         {% partial 'meta' %}
@@ -133,6 +138,7 @@ function onStart()
         <div id="top-nav">
             <div class="container">
                 <!-- Put anything here, social links? -->
+                {% partial 'social' %}
             </div>
         </div>
 
@@ -140,20 +146,20 @@ function onStart()
         <header id="layout-header">
             {% partial "header" %}
 
-            <!-- Nav -->
+            <!--Nav-->
             <nav id="layout-nav">
                 {% partial "nav" %}
             </nav>
         </header>
 
-        <!-- Content -->
+        <!--Content-->
         <section id="layout-content">
             <div class="container">
-
+            
                 <div class="visible-xs visible-sm slider-wrapper title-style">
                     {% partial "title" %}
                 </div>
-
+            
                 <div id="slider-wrapper" class="slider-wrapper hidden-xs hidden-sm">
                     <div id="slider">
                         {% for chairPage in chairsPages %}
@@ -162,7 +168,7 @@ function onStart()
                             {% set bannerImage = chairPage.viewBag.banner 
                                 ? chairPage.viewBag.banner|media
                                 : ('assets/images/chairs/'~random(randomImage)~'.jpg')|theme %}
-
+            
                             <img src="{{ bannerImage }}" alt="" title="" />
                         {% endfor %}
                     </div>
@@ -183,37 +189,39 @@ function onStart()
                         IV Congreso de Investigación Científica
                     </div>
                 </div>
-
+            
+            <!--sección pagina principal-->
                 <div class="row module-homes">
-                    <div class="col-sm-6 col-md-4">
+                    <div class=".col-xs-12 col-md-8 .col-xs-6 ">
                         <div class="module-home">
                             {% page %}
                         </div>
                     </div>
-
-                    <div class="col-sm-6 col-md-4">
+             
+                
+                    <div class=".col-md-4">
                         <div class="module-home">
-                            {% placeholder news title="Latest News" %}
+                            {% placeholder news title="Fechas importantes" %}
                         </div>
                     </div>
-
-                    <div class="col-sm-6 col-md-4">
-                        <div class="module-home">
-                            {% placeholder login title="Client Area" %}
-                        </div>
-                    </div>
-
                 </div>
-
             </div>
-        </section>
-
+        </section> 
+        
+        
         <!-- Slogan -->
         <div id="layout-slogan">
             <div class="container">
                 <div class="service-strip"></div>
             </div>
         </div>
+        
+        <!-- Logos congreso -->
+            <div class="container">
+                 {% partial 'logos' %}
+            </div>
+
+
 
         <!-- Footer -->
         <footer id="layout-footer">
@@ -222,13 +230,14 @@ function onStart()
 
         <!-- Scripts -->
         {% partial 'scripts' %}
+        
         <script src="{{ 'assets/javascript/home.js'|theme }}"></script>
 
     </body>
-</html>";s:4:"code";s:138:"use RainLab\Pages\Classes\Page;
+</html>";s:4:"code";s:144:"use RainLab\Pages\Classes\Page;
 
 function onStart()
 {
     $page = Page::find('chairs');
     $this['chairsPages'] = $page->getChildren();
-}";s:11:"description";s:14:"Default layout";s:7:"account";a:0:{}s:7:"session";a:0:{}s:19:"staticMenu mainMenu";a:1:{s:4:"code";s:9:"main-menu";}s:10:"staticPage";a:0:{}}}
+}";s:11:"description";s:16:"Pagina de inicio";s:19:"staticMenu mainMenu";a:1:{s:4:"code";s:9:"main-menu";}s:10:"staticPage";a:2:{s:10:"useContent";s:1:"1";s:7:"default";s:1:"0";}s:7:"session";a:1:{s:8:"security";s:3:"all";}}}

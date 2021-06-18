@@ -38,11 +38,19 @@ class __TwigTemplate_5816142688049d2160bca29700a115b75825cbc6ab46f70d66c43648de8
         // line 1
         echo $this->env->getExtension('Cms\Twig\Extension')->startBlock('sidebarSection'        );
         // line 2
-        echo "<h3>Conferencia Magistral</h3>
-
-<p align=\"justify\">La Conferencia Magistral del Área de Conocimiento, serán de 25 minutos y 5 de preguntas, abordando aspectos relacionados con las necesidades de investigación científica y otros aspectos que permitan motivar a los asistentes a trabajar en el área de conocimiento a través de programas de investigación científica y la creación de redes de investigador. A los ponentes en las Conferencias Magistrales, se les entregara Diploma en formato digital.</p>
+        echo "<h3>Sobre el Congreso</h3>
 
 <p><a aria-pressed=\"true\" class=\"btn btn-primary active\" href=\"/congreso/sobre-el-congreso/registro\">Ir a: &gt;&gt;Registro e Inscripción</a></p>
+
+<p><a aria-pressed=\"true\" class=\"btn btn-primary active\" href=\"/congreso/sobre-el-congreso/organizacion\">Ir a: &gt;&gt;Organización</a></p>
+
+<p><a aria-pressed=\"true\" class=\"btn btn-primary active\" href=\"/congreso/sobre-el-congreso/programa\">Ir a: &gt;&gt;Programa</a></p>
+
+<p><a aria-pressed=\"true\" class=\"btn btn-primary active\" href=\"/congreso/sobre-el-congreso/concurso\">Ir a: &gt;&gt;Concurso Fotográfico</a></p>
+
+<h3>Conferencia Magistral</h3>
+
+<p align=\"justify\">La Conferencia Magistral del Área de Conocimiento, serán de 25 minutos y 5 de preguntas, abordando aspectos relacionados con las necesidades de investigación científica y otros aspectos que permitan motivar a los asistentes a trabajar en el área de conocimiento a través de programas de investigación científica y la creación de redes de investigador. A los ponentes en las Conferencias Magistrales, se les entregara Diploma en formato digital.</p>
 
 ";
         // line 1
@@ -56,7 +64,7 @@ class __TwigTemplate_5816142688049d2160bca29700a115b75825cbc6ab46f70d66c43648de8
 
     public function getDebugInfo()
     {
-        return array (  49 => 1,  41 => 2,  39 => 1,);
+        return array (  57 => 1,  41 => 2,  39 => 1,);
     }
 
     public function getSourceContext()
